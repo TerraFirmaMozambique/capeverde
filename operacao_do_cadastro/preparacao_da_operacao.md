@@ -11,11 +11,11 @@ A preparação da operação do cadastro consiste essencialmente na:
 * Identificação de áreas urbanas de génese ilegal;
 * Identificação de restrições, nomeadamente de caracter ambiental.
 
+![](/assets/prep_op_cadastro.jpg)
+
 Figura 5 - Preparação da Operação de Cadastro
 
-Fluxograma
-
-Figura 6 - Fluxograma preparação da operação do cadastro
+![](/assets/flux_prep_cadastro.jpg)Figura 6 - Fluxograma preparação da operação do cadastro
 
 ### Definição do Âmbito Territorial do Cadastro {#defini-o-do-mbito-territorial-do-cadastro}
 
