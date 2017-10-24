@@ -8,9 +8,9 @@ O primeiro passo a dar na preparação da operação é adequar o Sistema Inform
 
 Mediante o âmbito territorial definido, carregar todos os mapas e dados de base.
 
-Diagrama
+### Diagrama
 
-![Macintosh HD:Users:PNM:Downloads:MCA.LAND Definição Âmbito Territorial v4.0 - New Page.png](../assets/macintosh_hduserspnmdownloadsmc.png)
+![](/assets/def_ambito_7.png)![Macintosh HD:Users:PNM:Downloads:MCA.LAND Definição Âmbito Territorial v4.0 - New Page.png](../assets/macintosh_hduserspnmdownloadsmc.png)
 
 Figura 7 - Definição do âmbito territorial do Cadastro
 
@@ -29,11 +29,7 @@ Antes de se iniciar a atividade de campo propriamente dita, existe a necessidade
 
 Surge assim o conceito de **seção cadastral**, que corresponde sensivelmente a áreas com 800 a 1.000 prédios \(nas áreas urbanas\) e 1.000 ou um pouco mais em áreas rurais \(ou ainda a cerca de 1.000 frações, no caso de grandes empreendimentos ou condomínios\). Estas seções cadastrais são assim no geral unidades mais pequenas que as divisões administrativas de último nível \(bairros nas zonas urbanas / lugares nas zonas rurais\), que devem ser definidos em função de uma estimativa de parcelas a adjudicar a cada missão de terreno. São ainda área que podem ser analisadas em diferentes perspetivas nomeadamente do ordenamento, do ponto de vista social, ambiental e da existência ou não de alguma restrição.
 
-Contudo, caso o sistema informático \(LMITS\) não permita a implementação das seções cadastrais, pode se usar, em substituição, as **divisões administrativas** como seções cadastrais \(essas sim existentes no sistema\), nomeadamente de **bairro** \(em zona urbana\) ou **lugar** \(em zona rural\). Se for o caso, será contudo necessário chegar a uma subdivisão mais operacional das seções cadastrais \(bairros ou lugares\), para efeitos de gestão dos trabalhos e orientação das equipas de terreno. Essa subdivisão a implementar é o **bloco cadastral** e pode ser definida como um quarteirão ou como uma aglomeração de 2 ou 3 quarteirões. De seguida exemplifica-se tal divisão de alguns bairros em Espargos \(zona urbana\), ilha do Sal, em blocos cadastrais.
-
-| Figura 8 - Exemplos de subdivisão de 3 bairros em blocos cadastrais | Legenda |
-| --- | --- |
-
+Contudo, caso o sistema informático \(LMITS\) não permita a implementação das seções cadastrais, pode se usar, em substituição, as **divisões administrativas** como seções cadastrais \(essas sim existentes no sistema\), nomeadamente de **bairro** \(em zona urbana\) ou **lugar** \(em zona rural\). Se for o caso, será contudo necessário chegar a uma subdivisão mais operacional das seções cadastrais \(bairros ou lugares\), para efeitos de gestão dos trabalhos e orientação das equipas de terreno. Essa subdivisão a implementar é o **bloco cadastral** e pode ser definida como um quarteirão ou como uma aglomeração de 2 ou 3 quarteirões. De seguida exemplifica-se tal divisão de alguns bairros em Espargos \(zona urbana\), ilha do Sal, em blocos cadastrais.![](/assets/eg_subdiv_8.jpg)Figura 8 - Exemplos de subdivisão de 3 bairros em blocos cadastrais
 
 Esta subdivisão em blocos cadastrais vai permitir superar questões operacionais de gestão do trabalho de terreno, mas também de sincronização de dados via internet \(já que quantos mais parcelas, mais dados para sincronizar, mais tempo é necessário, levando a menor eficácia\).
 
