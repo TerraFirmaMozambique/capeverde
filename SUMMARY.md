@@ -1,11 +1,7 @@
 # Summary
 
 * [MANUAL DE OPERAÇÕES](README.md)
-* [Versões	](versoes.md)
-* [Ficha Técnica	](ficha_tecnica.md)
-* [Índice](indice.md)
-* [Lista de figuras](lista_de_figuras.md)
-* [Lista de Tabelas](lista_de_tabelas.md)
+* [Ficha Técnica    ](ficha_tecnica.md)
 * [Acrónimos](acronimos.md)
 * [Glossário](glossario.md)
 * [Introdução](introducao/README.md)
@@ -33,7 +29,8 @@
   * [Seguimento  das actividades de clarificação de direitos e limites de propriedades](operacao_do_cadastro/seguimento_das_actividades_de_clarifica_cao_de_dir.md)
 * [Ferramentas de rastreio, tipificação e instruções auxiliares](ferramentas_de_rastreio,_tipificacao_e_instrucoes_/README.md)
   * [Ferramentas Legais](ferramentas_de_rastreio,_tipificacao_e_instrucoes_/ferramentas_legais.md)
-  * [Ferramentas sobre aspetos sociais e de género (ASG)](ferramentas_de_rastreio,_tipificacao_e_instrucoes_/ferramentas_sobre_aspetos_sociais_e_de_genero_asg.md)
+  * [Ferramentas sobre aspetos sociais e de género \(ASG\)](ferramentas_de_rastreio,_tipificacao_e_instrucoes_/ferramentas_sobre_aspetos_sociais_e_de_genero_asg.md)
   * [Ferramentas relativas a restrições administrativo-legais e ambientais](ferramentas_de_rastreio,_tipificacao_e_instrucoes_/ferramentas_relativas_a_restricoes_administrativo-.md)
 * [Controle de Qualidade](controle_de_qualidade/README.md)
   * [Verificação da Qualidade de Dados](controle_de_qualidade/verificacao_da_qualidade_de_dados.md)
+
