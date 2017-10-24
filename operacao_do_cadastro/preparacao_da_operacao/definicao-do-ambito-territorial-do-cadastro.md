@@ -31,6 +31,14 @@ Surge assim o conceito de **seção cadastral**, que corresponde sensivelmente a
 
 Contudo, caso o sistema informático \(LMITS\) não permita a implementação das seções cadastrais, pode se usar, em substituição, as **divisões administrativas** como seções cadastrais \(essas sim existentes no sistema\), nomeadamente de **bairro** \(em zona urbana\) ou **lugar** \(em zona rural\). Se for o caso, será contudo necessário chegar a uma subdivisão mais operacional das seções cadastrais \(bairros ou lugares\), para efeitos de gestão dos trabalhos e orientação das equipas de terreno. Essa subdivisão a implementar é o **bloco cadastral** e pode ser definida como um quarteirão ou como uma aglomeração de 2 ou 3 quarteirões. De seguida exemplifica-se tal divisão de alguns bairros em Espargos \(zona urbana\), ilha do Sal, em blocos cadastrais.![](/assets/eg_subdiv_8.jpg)Figura 8 - Exemplos de subdivisão de 3 bairros em blocos cadastrais
 
+![](/assets/leg_secc_cad.PNG)
+
+Seção Cadastral \(neste caso, de uma situação urbana; corresponde a um bairro; se fosse em zona rural corresponderia a um lugar\)
+
+![](/assets/leg_bloco_cad.png)
+
+Bloco Cadastral \(subdivisão dentro do bloco cadastral quando este corresponde a uma divisão administrativa – bairro ou lugar\)
+
 Esta subdivisão em blocos cadastrais vai permitir superar questões operacionais de gestão do trabalho de terreno, mas também de sincronização de dados via internet \(já que quantos mais parcelas, mais dados para sincronizar, mais tempo é necessário, levando a menor eficácia\).
 
 ### Finalidade
@@ -41,7 +49,7 @@ Subdividir a zona a cadastrar em áreas menores, que possam ser afetas a equipas
 
 * EE consultando INGT e respetivas CM.
 
-### Diagrama
+### Diagrama![](/assets/def_sec_cad_9.jpg)
 
 Figura 9 - Definição das Secções Cadastrais
 
@@ -64,5 +72,7 @@ As divisões administrativas estão carregadas no sistema.
 
 ### Fluxograma
 
-Figura 10 - Fluxograma Definição das Secções Cadastrais
+![](/assets/flux_def_cad_10.jpg)Figura 10 - Fluxograma Definição das Secções Cadastrais
+
+
 
