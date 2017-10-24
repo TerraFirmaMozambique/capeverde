@@ -21,6 +21,8 @@ Terão o mesmo tratamento as situações/assentamentos que, não sendo AUGI, apr
 
 ### Diagrama
 
+![](/assets/ident_augi_15.jpg)
+
 Figura 15 - Identificação prévia de AUGI
 
 ### Condições de partida
@@ -33,30 +35,23 @@ Figura 15 - Identificação prévia de AUGI
 ### Sequência típica do procedimento em AUGI
 
 1. O técnico da EE e o técnico da CM dirigem-se ao primeiro bairro/zona de bairro que faz parte da AUGI;
-
-Começam o procedimento utilizando o Tablet para selecionar na aplicação LMITS a opção &lt;&lt;Editar AUGI&gt;&gt;;
-
-O técnico da EE solicita ao\(s\) técnico\(s\) da CM que mostre\(m\) os vértices e as delimitações da AUGI, conforme previsto no PDM ou Portaria do membro do Governo responsável pelo setor do ordenamento do território e planeamento urbanístico \(com base na delimitação aprovada pela Assembleia Municipal competente\);
-
-Na presença do técnico da CM, o técnico da EE verifica e/ou corrige os vértices do polígono recorrendo ao equipamento GNSS e/ou as imagens ortorectificadas e estabelece a configuração geométrica correta do limite da AUGI;
-
-Repetir o procedimento para todas as AUGI conhecidas no território a Cadastrar.
+2. Começam o procedimento utilizando o Tablet para selecionar na aplicação LMITS a opção &lt;&lt;Editar AUGI&gt;&gt;;
+3. O técnico da EE solicita ao\(s\) técnico\(s\) da CM que mostre\(m\) os vértices e as delimitações da AUGI, conforme previsto no PDM ou Portaria do membro do Governo responsável pelo setor do ordenamento do território e planeamento urbanístico \(com base na delimitação aprovada pela Assembleia Municipal competente\);
+4. Na presença do técnico da CM, o técnico da EE verifica e/ou corrige os vértices do polígono recorrendo ao equipamento GNSS e/ou as imagens ortorectificadas e estabelece a configuração geométrica correta do limite da AUGI;
+5. Repetir o procedimento para todas as AUGI conhecidas no território a Cadastrar.
 
 ### Sequência típica do procedimento em zona Não AUGI \(com construções clandestinas\)
 
 1. O técnico da EE e o técnico da CM dirigem-se ao primeiro bairro/zona de bairro que faz parte da AUGI;
-
-Começam o procedimento utilizando o Tablet para selecionar na aplicação LMITS a opção &lt;&lt;Editar Não AUGI&gt;&gt;;
-
-O técnico da EE solicita ao\(s\) técnico\(s\) da CM que mostre\(m\) os vértices e as delimitações de áreas com construções clandestinas fora de áreas urbanas ou urbanizáveis;
-
-Na presença do técnico da CM, o técnico da EE verifica e/ou corrige os vértices do polígono recorrendo ao equipamento GNSS e/ou as imagens ortorectificadas e estabelece a configuração geométrica correta dos limites da área com construções clandestinas;
-
-Repetir o procedimento para todas as áreas com construções clandestinas conhecidas no território a Cadastrar.
+2. Começam o procedimento utilizando o Tablet para selecionar na aplicação LMITS a opção &lt;&lt;Editar Não AUGI&gt;&gt;;
+3. O técnico da EE solicita ao\(s\) técnico\(s\) da CM que mostre\(m\) os vértices e as delimitações de áreas com construções clandestinas fora de áreas urbanas ou urbanizáveis;
+4. Na presença do técnico da CM, o técnico da EE verifica e/ou corrige os vértices do polígono recorrendo ao equipamento GNSS e/ou as imagens ortorectificadas e estabelece a configuração geométrica correta dos limites da área com construções clandestinas;
+5. Repetir o procedimento para todas as áreas com construções clandestinas conhecidas no território a Cadastrar.
 
 ### Pós Condições
 
-Limites de AUGI conhecidos e estão registados no sistema.
+* Limites de AUGI conhecidos e estão registados no sistema.
+* Possibilidade de accionar módulo AUGI fora do layer AUGI verificada.
 
-Possibilidade de accionar módulo AUGI fora do layer AUGI verificada.
+
 

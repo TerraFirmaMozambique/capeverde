@@ -26,18 +26,12 @@ Os procedimentos são descritos para além da etapa preparatória, para que os i
 ### Sequência típica do procedimento
 
 1. O técnico da CM identifica os contratos de aforamento assinados e fornece à EE uma lista dos mesmos \(lista por cidade e bairro\);
-
-Em data previamente acordada, o técnico do backoffice da EE dirige-se à Câmara para digitalizar os contratos. Excepto se existirem cópias digitalizadas dos contratos, caso em que o técnico da Câmara as pode disponibilizar ao técnico da EE por via electrónica;
-
-O técnico da CM verifica as situações de aforamento que carecem de emissão/assinatura de contrato de aforamento \(lista por cidade e bairro\) e informa o técnico da EE dos documentos necessários para o efeito;
-
-As equipas de terreno da EE, ao fazer o levantamento bloco cadastral a bloco cadastral, informam os titulares da necessidade de se firmar o contrato de aforamento e dos documentos necessários para o efeito, e que os devem entregar \(i\) às equipas de terreno da EE ou \(ii\) no gabinete de apoio da EE;
-
-A EE encaminha os documentos para emissão de contrato de aforamento para a Câmara;
-
-A Câmara avisa a EE sempre que estiver pronto um pacote de contratos para assinatura \(por bairro ou sempre que estejam prontos 25 contratos\);
-
-A EE faz saber ao\(s\) titular\(es\) que se devem dirigir à Câmara para assinatura do contrato \(telefonando, mandando sms/e-mail, ou entregando bilhete para o efeito em casa do titular\); se a abordagem for por bairro, EE organiza um encontro em local a definir no bairro e o técnico da Câmara desloca-se para a assinatura _in loco_ do pacote de contratos do bairro.
+2. Em data previamente acordada, o técnico do backoffice da EE dirige-se à Câmara para digitalizar os contratos. Excepto se existirem cópias digitalizadas dos contratos, caso em que o técnico da Câmara as pode disponibilizar ao técnico da EE por via electrónica;
+3. O técnico da CM verifica as situações de aforamento que carecem de emissão/assinatura de contrato de aforamento \(lista por cidade e bairro\) e informa o técnico da EE dos documentos necessários para o efeito;
+4. As equipas de terreno da EE, ao fazer o levantamento bloco cadastral a bloco cadastral, informam os titulares da necessidade de se firmar o contrato de aforamento e dos documentos necessários para o efeito, e que os devem entregar \(i\) às equipas de terreno da EE ou \(ii\) no gabinete de apoio da EE;
+5. A EE encaminha os documentos para emissão de contrato de aforamento para a Câmara;
+6. A Câmara avisa a EE sempre que estiver pronto um pacote de contratos para assinatura \(por bairro ou sempre que estejam prontos 25 contratos\);
+7. A EE faz saber ao\(s\) titular\(es\) que se devem dirigir à Câmara para assinatura do contrato \(telefonando, mandando sms/e-mail, ou entregando bilhete para o efeito em casa do titular\); se a abordagem for por bairro, EE organiza um encontro em local a definir no bairro e o técnico da Câmara desloca-se para a assinatura _in loco_ do pacote de contratos do bairro.
 
 ### Pós Condições
 
@@ -69,24 +63,15 @@ Os procedimentos são descritos para além da etapa preparatória, para que os i
 ### Sequência típica do procedimento
 
 1. O técnico da CM identifica todas as habitações sociais existentes no Município, por bairro;
-
-O técnico da CM prepara e partilha com a EE uma pasta de contratos \(versão digital ou em papel\), com um exemplar dos diferentes tipos de contratos praticados pela Câmara \(ex. contrato de cada programa ou fase; contrato para situações de isenção; etc.\). A pasta deve conter contratos assinados versus _minutas_;
-
-A equipa jurídica da EE analisa as diferentes tipologias de contratos, quanto à sua natureza legal e dos direitos que confere aos beneficiários/titulares, e emite parecer sobre o tratamento que deve ser dado a cada tipo de contrato do ponto de vista cadastral;
-
-A EE submete este parecer/proposta à Câmara para discussão, com vista à obtenção de uma visão comum, e sempre que necessário sugere aos procedimentos a seguir, para cada tipologia, para a formalização dos direitos; a Câmara deve informar à EE que documentos são necessários para realizar cada procedimento \(ex. elaboração de novo contrato, de escritura, etc.\);
-
-A Câmara actualiza e partilha com a EE uma lista de beneficiários contemplados com habitação social por bairro/programa;
-
-A EE e a Câmara marcam uma sessão de informação conjunta nos bairros em que há habitações sociais, para esclarecimento aos beneficiários/titulares de como se vai processar o levantamento e dos documentos que podem ter de providenciar \(ex. para procedimentos de formalização/regularização\);
-
-Durante o trabalho de campo em bairros com habitação social, as equipa de terreno da EE confirmam que o ocupante das casas se mantem, ou registam alterações, para efeitos de posterior regularização junto da Câmara;
-
-A EE, ao completar um bairro, retorna a lista de beneficiários actualizadas à Câmara, assinalando os casos \(i\) em que precisa de ter acesso ao contrato assinado \(caso o beneficiário/titular não o tenha\) ou \(ii\) os procedimentos de formalização/regularização a acionar \(deve recolher os documentos necessários para o efeito\);
-
-A Câmara avisa a EE sempre que estiver pronto um pacote de contratos/escrituras para assinatura \(por bairro\);
-
-A EE organiza um encontro no bairro em questão e o técnico da Câmara desloca-se para a assinatura _in loco_ do pacote de contratos/escrituras do bairro.
+2. O técnico da CM prepara e partilha com a EE uma pasta de contratos \(versão digital ou em papel\), com um exemplar dos diferentes tipos de contratos praticados pela Câmara \(ex. contrato de cada programa ou fase; contrato para situações de isenção; etc.\). A pasta deve conter contratos assinados versus _minutas_;
+3. A equipa jurídica da EE analisa as diferentes tipologias de contratos, quanto à sua natureza legal e dos direitos que confere aos beneficiários/titulares, e emite parecer sobre o tratamento que deve ser dado a cada tipo de contrato do ponto de vista cadastral;
+4. A EE submete este parecer/proposta à Câmara para discussão, com vista à obtenção de uma visão comum, e sempre que necessário sugere aos procedimentos a seguir, para cada tipologia, para a formalização dos direitos; a Câmara deve informar à EE que documentos são necessários para realizar cada procedimento \(ex. elaboração de novo contrato, de escritura, etc.\);
+5. A Câmara actualiza e partilha com a EE uma lista de beneficiários contemplados com habitação social por bairro/programa;
+6. A EE e a Câmara marcam uma sessão de informação conjunta nos bairros em que há habitações sociais, para esclarecimento aos beneficiários/titulares de como se vai processar o levantamento e dos documentos que podem ter de providenciar \(ex. para procedimentos de formalização/regularização\);
+7. Durante o trabalho de campo em bairros com habitação social, as equipa de terreno da EE confirmam que o ocupante das casas se mantem, ou registam alterações, para efeitos de posterior regularização junto da Câmara;
+8. A EE, ao completar um bairro, retorna a lista de beneficiários actualizadas à Câmara, assinalando os casos \(i\) em que precisa de ter acesso ao contrato assinado \(caso o beneficiário/titular não o tenha\) ou \(ii\) os procedimentos de formalização/regularização a acionar \(deve recolher os documentos necessários para o efeito\);
+9. A Câmara avisa a EE sempre que estiver pronto um pacote de contratos/escrituras para assinatura \(por bairro\);
+10. A EE organiza um encontro no bairro em questão e o técnico da Câmara desloca-se para a assinatura _in loco_ do pacote de contratos/escrituras do bairro.
 
 ### Pós Condições
 
