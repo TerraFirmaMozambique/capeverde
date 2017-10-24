@@ -42,19 +42,19 @@ Considera-se propriedade privada do particular os terrenos que tenham entrado de
 
 Processo de recolha e tratamento dos dados que caracterizam e identificam cada um dos prédios/ frações existentes numa determinado área geográfica
 
-## Habilitação notarial de herdeiros
+## Habilitação notarial de herdeiros
 
 Consiste numa declaração feita em escritura pública por três pessoas que o notário considere dignas de crédito, de que os habilitando são herdeiros do falecido e não há quem lhes prefira na sucessão ou quem concorra com eles.
 
 ## Justificação notarial
 
-Mecanismo legal, admitido pelo Código do Notariado e tendo em vista a justificação do direito, para os titulares cadastrais possuidores de inscrição matricial, a favor do justificante ou da pessoa de quem adquiriu o direito.	
+Mecanismo legal, admitido pelo Código do Notariado e tendo em vista a justificação do direito, para os titulares cadastrais possuidores de inscrição matricial, a favor do justificante ou da pessoa de quem adquiriu o direito.
 
 ## Parcela
 
 Área de território física ou juridicamente autonomizada não resultante de uma operação de loteamento.
 
-## Planta cadastral
+## Planta cadastral
 
 Documento público que certifica a localização geográfica de um prédio, as suas confrontações e obrigatoriamente as coordenadas das extremas \(vértices\) que delimitam o prédio
 
@@ -66,7 +66,7 @@ Parte delimitada do solo juridicamente autónoma, abrangendo as águas, plantaç
 
 Prédio caracterizado e identificado na sequência de uma operação de cadastro
 
-## Prédio rústico, urbano e misto
+## Prédio rústico, urbano e misto
 
 Prédios rústicos são terrenos afetos ou que tenham como destino normal a atividade agrícola, nos termos da lei e dos planos de ordenamento do território, incluindo os edifícios ou construções de carácter acessório, sem autonomia económica e reduzido valor que neles estejam situados e afetos à produção agrícola; Prédios mistos são todos aqueles que estejam constituídos por uma parte rústica e outra urbana, desde que nenhuma das partes possa ser classificada como principal. Se o prédio misto for constituído por uma parte principal \(urbana ou rústica\) é classificado, na íntegra, de acordo com a parte principal; Prédios urbanos são todos aqueles que não devam ser classificados como rústicos, incluindo os terrenos destinados à construção, salvo quando se integram adentro do conceito de prédios mistos
 
