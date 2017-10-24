@@ -22,6 +22,8 @@ Tipificação de Conflitos.
 
 ### Diagrama
 
+![](/assets/triage_parc_16.jpg)
+
 Figura 16 - Triagem das parcelas mediante evidências
 
 ### Sequência típica
@@ -29,22 +31,21 @@ Figura 16 - Triagem das parcelas mediante evidências
 Para cada parcela, e para cada prédio/fração o analista deve:
 
 1. Começar por identificar quais as evidências presentes: polígonos, Declaração de Titularidade, registo matricial, alvará, escritura pública, ou outro documento que esteja associado \(digitalização de evidência resultante de uma iniciativa da EE ou do declarante\);
-
-Ordenar as evidências pela data dos factos ou do registo, de modo a apurar a cronologia dos factos e apurar a última caracterização predial e respetiva titularidade; se esta funcionalidade não estiver disponível no sistema, a triagem deve ser feita fora do sistema;
-
-Em função da análise efetuada, sinalizar no sistema para tratamento posterior qual a evidência mais relevante a ter em conta em trabalho de campo. Se esta funcionalidade não estiver disponível no sistema, a sinalização deve ser feita fora do sistema \(folha de gestão de processos\);
-
-No caso de evidências que indiciem um potencial conflito, sinalizar a proposta/prédio com a flag “em conflito” e anotar na respetiva página, a tipologia do conflito identificado;
-
-Anotar no respetivo prédio, na página de ações, que medidas devem ser desencadeadas no sentido de se obter evidências adicionais \(por exemplo, existe um registo com base em escritura pública, mas essa escritura não está no sistema, mas existe!\);
-
-Anotar no respetivo prédio, se existe a necessidade de especial atenção no trabalho de campo;
+2. Ordenar as evidências pela data dos factos ou do registo, de modo a apurar a cronologia dos factos e apurar a última caracterização predial e respetiva titularidade; se esta funcionalidade não estiver disponível no sistema, a triagem deve ser feita fora do sistema;
+3. Em função da análise efetuada, sinalizar no sistema para tratamento posterior qual a evidência mais relevante a ter em conta em trabalho de campo. Se esta funcionalidade não estiver disponível no sistema, a sinalização deve ser feita fora do sistema \(folha de gestão de processos\);
+4. No caso de evidências que indiciem um potencial conflito, sinalizar a proposta/prédio com a flag “em conflito” e anotar na respetiva página, a tipologia do conflito identificado;
+5. Anotar no respetivo prédio, na página de ações, que medidas devem ser desencadeadas no sentido de se obter evidências adicionais \(por exemplo, existe um registo com base em escritura pública, mas essa escritura não está no sistema, mas existe!\);
+6. Anotar no respetivo prédio, se existe a necessidade de especial atenção no trabalho de campo.
 
 ### Fluxograma
+
+![](/assets/flux_triage_17.jpg)
 
 Figura 17 - Fluxograma triagem de parcelas
 
 ### Pós- Condições
 
-Triagem e associação de evidências preparadas para o trabalho de terreno por secção cadastral.
+* Triagem e associação de evidências preparadas para o trabalho de terreno por secção cadastral.
+
+
 
