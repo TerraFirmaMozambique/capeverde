@@ -26,7 +26,9 @@ Com base nas demandas recebidas, o gabinete visa:
 
 ### Finalidade
 
-Estabelecer um o gabinete de atendimento ao cidadão no âmbito da operação de cadastro, especialmente vocacionada para os grupos mais vulneráveis, em condições de prestar informações e esclarecimentos, aconselhar sobre procedimentos a seguir no âmbito da Operação e para a formalização de direitos, fazer os encaminhamentos necessários, prestar apoio jurídico e de resolução informal de conflitos.
+* Estabelecer um o gabinete de atendimento ao cidadão no âmbito da operação de cadastro
+* ...especialmente vocacionada para os grupos mais vulneráveis
+* ...em condições de prestar informações e esclarecimentos, aconselhar sobre procedimentos a seguir no âmbito da Operação e para a formalização de direitos, fazer os encaminhamentos necessários, prestar apoio jurídico e de resolução informal de conflitos.
 
 ### Intervenientes
 

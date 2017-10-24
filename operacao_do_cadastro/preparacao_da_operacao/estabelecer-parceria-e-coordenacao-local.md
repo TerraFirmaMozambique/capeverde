@@ -24,6 +24,8 @@ Estabelecer uma coordenação e parceria local, incluindo a sociedade civil, com
 
 ### Diagrama
 
+![](/assets/estab_parc_13.jpg)
+
 Figura 13 - Estabelecer Parceria e Coordenação Local
 
 ### Condições de partida
@@ -33,18 +35,13 @@ Diagnóstico social, de género e ambiental; análise das partes interessadas; e
 ### Sequência típica
 
 1. O INGT coordena e programa com os seus parceiros a vertente de comunicação de massas do Plano e dá início à campanha, assente numa variedade de meios de comunicação e mensagens para as várias audiências: entidades públicas, privadas, investidores, diáspora, grupos vulneráveis, população em geral;
+2. O núcleo de comunicação atualiza as informações nos _sites_ institucionais identificados para a divulgação da operação \(Gov, MAHOT, INGT, CM, etc.\), em particular as secções de FAQ _\(frequently asked questions\),_ em concertação com o tipo de pedido de informação que chega ao serviço de atendimento; glossário de termos; _links_ com acesso a formulários e documentos, etc.;
+3. Elabora _briefings_ regulares para os meios de comunicação social;
+4. Organiza uma sessão/evento de lançamento da operação de cadastro \(por altura da publicitação da operação\);
+5. Organiza sessões de concertação/formação com técnicos e atores da sociedade civil com enfoque nos que têm por incumbência divulgar a operação, e nos líderes e agentes comunitários, que possuem confiança no seio da comunidade ou do público em geral, com destaque para as organizações que trabalham com as comunidades mais vulneráveis \(identificados na análise das partes interessadas\), para que todos estejam aptos a multiplicar a informação de forma harmonizada aos seus diversos grupos alvo;
+6. Apoia os técnicos, líderes e agentes comunitários na organização de sessões de esclarecimento \(multiplicação\) para os seus respetivos grupos alvo;
+7. Mantém contacto com as instituições e associações ligadas à Diáspora, partilhando todas as informações e materiais e respondendo a solicitações adicionais de informação e/ou encaminhando pedidos;
+8. Organiza eventos e distribui materiais informativos.
 
-O núcleo de comunicação atualiza as informações nos _sites_ institucionais identificados para a divulgação da operação \(Gov, MAHOT, INGT, CM, etc.\), em particular as secções de FAQ _\(frequently asked questions\),_ em concertação com o tipo de pedido de informação que chega ao serviço de atendimento; glossário de termos; _links_ com acesso a formulários e documentos, etc.;
 
-Elabora _briefings_ regulares para os meios de comunicação social;
-
-Organiza uma sessão/evento de lançamento da operação de cadastro \(por altura da publicitação da operação\);
-
-Organiza sessões de concertação/formação com técnicos e atores da sociedade civil com enfoque nos que têm por incumbência divulgar a operação, e nos líderes e agentes comunitários, que possuem confiança no seio da comunidade ou do público em geral, com destaque para as organizações que trabalham com as comunidades mais vulneráveis \(identificados na análise das partes interessadas\), para que todos estejam aptos a multiplicar a informação de forma harmonizada aos seus diversos grupos alvo;
-
-Apoia os técnicos, líderes e agentes comunitários na organização de sessões de esclarecimento \(multiplicação\) para os seus respetivos grupos alvo;
-
-Mantém contacto com as instituições e associações ligadas à Diáspora, partilhando todas as informações e materiais e respondendo a solicitações adicionais de informação e/ou encaminhando pedidos;
-
-Organiza eventos e distribui materiais informativos.
 
