@@ -1,14 +1,13 @@
-### Demarcação das Parcelas {#demarca-o-das-parcelas}
+## Demarcação das Parcelas
 
-Âmbito
+### Âmbito
 
 A demarcação das parcelas é um dever do titular cadastral e deve ser efetuada dentro do prazo afixado no Edital onde dá Inicio à Operação Cadastro Predial.
 
 Esta demarcação deve ser feita em conformidade com pelo menos um dos seguintes itens:
 
-Respetivo título
-
-Planta de localização
+* Respetivo título
+* Planta de localização
 
 Em harmonia com a posse dos confinantes.
 

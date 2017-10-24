@@ -15,31 +15,7 @@ A preparação da operação do cadastro consiste essencialmente na:
 
 Figura 5 - Preparação da Operação de Cadastro
 
+### Fluxograma
+
 ![](/assets/flux_prep_cadastro.jpg)Figura 6 - Fluxograma preparação da operação do cadastro
-
-###  {#defini-o-do-mbito-territorial-do-cadastro}
-
-###  {#publicita-o-da-opera-o-de-cadastro}
-
-###  {#criar-gabinete-de-apoio}
-
-###  {#estabelecer-parceria-e-coordena-o-local-prop-cia-apropria-o-da-opera-o-de-cadastro}
-
-###  {#defini-o-no-sistema-das-restri-es-utiliza-o-do-territ-rio}
-
-###  {#identifica-o-no-sistema-de-reas-urbanas-de-g-nese-ilegal}
-
-###  {#prepara-o-de-tipologias-espec-ficas-com-a-c-mara-municipal-aforamento}
-
-###  {#prepara-o-de-tipologias-espec-ficas-com-a-cm-habita-o-social}
-
-###  {#prepara-o-espec-fica-para-empreendimentos-tur-sticos}
-
-###  {#triagem-das-parcelas-mediante-evid-ncias}
-
-###  {#demarca-o-das-parcelas}
-
-###  {#declara-o-dos-titulares}
-
-
 

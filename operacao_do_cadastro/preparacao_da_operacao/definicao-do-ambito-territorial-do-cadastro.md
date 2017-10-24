@@ -1,10 +1,10 @@
-### Definição do Âmbito Territorial do Cadastro {#defini-o-do-mbito-territorial-do-cadastro}
+## Definição do Âmbito Territorial do Cadastro
 
-#### Âmbito
+### Âmbito
 
 O primeiro passo a dar na preparação da operação é adequar o Sistema Informático de suporte ao Cadastro, parametrizando com os dados do território para o qual se vai efetuar o cadastro.
 
-Finalidade
+### Finalidade
 
 Mediante o âmbito territorial definido, carregar todos os mapas e dados de base.
 
@@ -14,16 +14,16 @@ Diagrama
 
 Figura 7 - Definição do âmbito territorial do Cadastro
 
-Sequência Típica
+### Sequência Típica
 
 1. Definir qual o território \(Ilha, ou concelho ou freguesia, bairro ou local\);
 2. Parametrizar o sistema com informações de base;
 3. Identificar entidades públicas relevantes envolvidas no cadastro para esse território;
 4. Ativar as evidências para esse território
 
-### Definição de Secções Cadastrais {#defini-o-de-sec-es-cadastrais}
+## Definição de Secções Cadastrais
 
-Âmbito
+### Âmbito
 
 Antes de se iniciar a atividade de campo propriamente dita, existe a necessidade de particionar o território em unidades que possam ser geridas como um todo, da perspetiva da equipa de campo e de _BackOffice_, e do sistema informático, nas várias etapas do processo com especial atenção para a recolha em campo e caracterização provisória e, consequentemente a sua preparação para consulta pública.
 
@@ -37,28 +37,28 @@ Contudo, caso o sistema informático \(LMITS\) não permita a implementação da
 
 Esta subdivisão em blocos cadastrais vai permitir superar questões operacionais de gestão do trabalho de terreno, mas também de sincronização de dados via internet \(já que quantos mais parcelas, mais dados para sincronizar, mais tempo é necessário, levando a menor eficácia\).
 
-Finalidade
+### Finalidade
 
 Subdividir a zona a cadastrar em áreas menores, que possam ser afetas a equipas de campo.
 
-Intervenientes
+### Intervenientes
 
 * EE consultando INGT e respetivas CM.
 
-Diagrama
+### Diagrama
 
 Figura 9 - Definição das Secções Cadastrais
 
-Ferramentas
+### Ferramentas
 
 * Ambiental AMB 1: Caracterização ambiental das seções cadastrais.
 * Social e Género ASG 1: Caracterização das seções cadastrais.
 
-Condições de partida
+### Condições de partida
 
 As divisões administrativas estão carregadas no sistema.
 
-Descrição da Sequência típica
+### Descrição da Sequência típica
 
 1. Selecionar no sistema LMITS o nível informativo das divisões administrativas de menor nível \(bairro nas zonas urbana / lugar nas zonas rurais\);
 2. Acionar no sistema a opção criar Secções Cadastrais por bairro / lugar. O Sistema irá mostrar um layer com as secções cadastrais já criadas, caso existam;
@@ -66,7 +66,7 @@ Descrição da Sequência típica
 4. Selecionar as secções consensuais e bloqueá-las utilizando a ferramenta “Bloquear secção”. A partir desse momento a secção pode ser utilizada para atividade de campo;
 5. Repetir o processo até que toda a área de cadastro esteja contemplada.
 
-Fluxograma
+### Fluxograma
 
 Figura 10 - Fluxograma Definição das Secções Cadastrais
 

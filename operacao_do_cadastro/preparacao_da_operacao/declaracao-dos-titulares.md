@@ -1,6 +1,6 @@
-### Declaração dos Titulares {#declara-o-dos-titulares}
+## Declaração dos Titulares
 
-Âmbito
+### Âmbito
 
 A partir da publicitação da operação de cadastro, pode ter início a entrega das declarações de titularidade.
 
@@ -8,13 +8,13 @@ As declarações podem ser feitas e entregues em postos de atendimento publicita
 
 A recolha da Declaração de Titularidade pode ser feita utilizando o sistema disponibilizado via internet e via gabinete de apoio e prestação de serviços ao cidadão criada para a Operação de Cadastro.
 
-#### Declaração feita presencialmente num balcão de atendimento {#declara-o-feita-presencialmente-num-balc-o-de-atendimento}
+## Declaração feita presencialmente num balcão de atendimento
 
-Finalidade
+### Finalidade
 
 Preencher uma declaração no sistema, na presença do titular e imprimir cópia da declaração para entregar ao declarante
 
-Interveniente
+### Interveniente
 
 Declarante/Titular Cadastral;
 
@@ -22,23 +22,23 @@ Atendedor;
 
 EE em coordenação com Casa do Cidadão/Porton Di Nos Ilha/outras entidades.
 
-Diagrama
+### Diagrama
 
 Figura 18 - Declaração de Titularidade, presencial
 
-Fluxograma
+### Fluxograma
 
 Figura 19 - Fluxograma Declaração de Titularidade, presencial
 
 Figura 20 - Declaração de Titularidade via internet
 
-Condições de partida
+### Condições de partida
 
 1. Existe conectividade ao sistema central;
 2. Sistema na função **Declaração de Titularidade** disponível via internet no portal previamente definido;
 3. Existe um polígono para a parcela sobre o qual vai haver declaração ou qualquer outra evidência.
 
-Sequência típica
+### Sequência típica
 
 No gabinete de apoio ao cidadão:
 
@@ -58,7 +58,7 @@ O atendedor pede a confirmação dos dados e solicita assinatura no _“pad”_ 
 
 O atendedor imprime uma cópia da declaração e entrega ao Declarante.
 
-Sequência Excecionais
+### Sequência Excecionais
 
 A1 - Não existe nenhum prédio associado a parcela
 
@@ -76,7 +76,7 @@ Verificar se o declarante cumpre e prova os requisitos previstos na lei \(admini
 
 Prosseguir com a sequencia típica para o prédio em propriedade horizontal e todas as frações associadas.
 
-#### Declaraões Via Internet: {#declara-es-via-internet}
+## Declaraões Via Internet:
 
 1. O declarante/titular cadastral acede via internet ao portal de serviços públicos \(portonDiNosIlha\), devidamente autenticado;
 
@@ -102,11 +102,13 @@ Terminado, o Sistema imprime uma cópia da declaração, ou cria um PDF ou ainda
 
 As declarações efetuadas pelo titular ficam disponíveis para posterior acompanhamento.
 
-Fluxograma
+### Fluxograma
 
 Figura 21 - Fluxograma Declaração de titularidade via Internet
 
-Pós- Condições
+### Pós- Condições
 
-Registada uma declaração no LIMTS-1.
+* Registada uma declaração no LIMTS-1.
+
+
 

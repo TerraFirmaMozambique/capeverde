@@ -1,6 +1,6 @@
-### Preparação de tipologias específicas com a Câmara Municipal: aforamento {#prepara-o-de-tipologias-espec-ficas-com-a-c-mara-municipal-aforamento}
+## Preparação de tipologias específicas com a Câmara Municipal: aforamento
 
-Âmbito
+### Âmbito
 
 Existem tipologias para as quais deve ser feito um trabalho prévio de preparação com as Câmaras Municipais \(CM\), com vista a agilizar os trabalhos de levantamento, harmonização e emissão de parecer, nomeadamente no caso de **aforamento**. Esta preparação vai contribuir para que menos prédios em aforamento cheguem à caracterização provisória/consulta pública em situação de Cadastro Diferido.
 
@@ -8,25 +8,22 @@ Para os prédios urbanos cedidos pelas CM para construção de habitação, o **
 
 Os procedimentos são descritos para além da etapa preparatória, para que os intervenientes possam visualizar de forma mais global o esforço a realizar para esta tipologia de aforamento.
 
-Finalidade
+### Finalidade
 
-Criar condições de acesso da EE aos contratos de aforamento assinados entre a Câmara Municipal e o\(s\) foreiro\(s\).
+* Criar condições de acesso da EE aos contratos de aforamento assinados entre a Câmara Municipal e o\(s\) foreiro\(s\).
+* Identificar as situações de aforamento que carecem de emissão de contrato.
 
-Identificar as situações de aforamento que carecem de emissão de contrato.
+### Intervenientes
 
-Intervenientes
+* EE;
+* Câmara Municipal;
+* Titulares do direito de aforamento.
 
-EE;
+### Condições de partida
 
-Câmara Municipal;
+* Instrumentos de gestão do Município em relação ao aforamento.
 
-Titulares do direito de aforamento.
-
-Condições de partida
-
-Instrumentos de gestão do Município em relação ao aforamento.
-
-Sequência típica do procedimento
+### Sequência típica do procedimento
 
 1. O técnico da CM identifica os contratos de aforamento assinados e fornece à EE uma lista dos mesmos \(lista por cidade e bairro\);
 
@@ -42,37 +39,34 @@ A Câmara avisa a EE sempre que estiver pronto um pacote de contratos para assin
 
 A EE faz saber ao\(s\) titular\(es\) que se devem dirigir à Câmara para assinatura do contrato \(telefonando, mandando sms/e-mail, ou entregando bilhete para o efeito em casa do titular\); se a abordagem for por bairro, EE organiza um encontro em local a definir no bairro e o técnico da Câmara desloca-se para a assinatura _in loco_ do pacote de contratos do bairro.
 
-Pós Condições
+### Pós Condições
 
-EE tem acesso às evidências relativas a situações de aforamento.
+* EE tem acesso às evidências relativas a situações de aforamento.
+* A Câmara e a EE estabelecem os procedimentos a seguir para a elaboração/assinatura em massa dos contratos de aforamento em falta
 
-A Câmara e a EE estabelecem os procedimentos a seguir para a elaboração/assinatura em massa dos contratos de aforamento em falta
+## Preparação de tipologias específicas com a CM: habitação social
 
-### Preparação de tipologias específicas com a CM: habitação social {#prepara-o-de-tipologias-espec-ficas-com-a-cm-habita-o-social}
-
-Âmbito
+### Âmbito
 
 Outra situação para a qual deve ser feito um trabalho prévio de preparação é a da **habitação social**. As Câmaras Municipais no geral promovem medidas/programas de habitação social. Alguns destes conferem aos beneficiários algum dos direitos contemplados pela Operação do Cadastro Predial. Neste sentido há que caracterizar os vários tipos de habitação social existentes no\(s\) município\(s\), a natureza do direito atribuído e as condições previstas para a aquisição do mesmo \(ex. doação de terreno para construção, regime de renda resolúvel, etc.\).
 
 Os procedimentos são descritos para além da etapa preparatória, para que os intervenientes possam visualizar de forma mais global o esforço a realizar para as situações de habitação social.
 
-Finalidade
+### Finalidade
 
-Identificar os tipos de habitação social existentes no Município e respectivas condições contratuais.
+* Identificar os tipos de habitação social existentes no Município e respectivas condições contratuais.
 
-Intervenientes
+### Intervenientes
 
-EE;
+* EE;
+* Câmara Municipal;
+* Beneficiários/titulares da habitação social.
 
-Câmara Municipal;
+### Condições de partida
 
-Beneficiários/titulares da habitação social.
+* Instrumentos de gestão do Município em relação à habitação social.
 
-Condições de partida
-
-Instrumentos de gestão do Município em relação à habitação social.
-
-Sequência típica do procedimento
+### Sequência típica do procedimento
 
 1. O técnico da CM identifica todas as habitações sociais existentes no Município, por bairro;
 
@@ -94,9 +88,10 @@ A Câmara avisa a EE sempre que estiver pronto um pacote de contratos/escrituras
 
 A EE organiza um encontro no bairro em questão e o técnico da Câmara desloca-se para a assinatura _in loco_ do pacote de contratos/escrituras do bairro.
 
-Pós Condições
+### Pós Condições
 
-As tipologias de habitação social existentes no Município são conhecidas.
+* As tipologias de habitação social existentes no Município são conhecidas.
+* A Câmara e a EE estabelecem os procedimentos a seguir para a formalização/regularização em massa das habitações sociais.
 
-A Câmara e a EE estabelecem os procedimentos a seguir para a formalização/regularização em massa das habitações sociais.
+
 

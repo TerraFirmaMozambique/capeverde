@@ -1,6 +1,6 @@
-### Publicitação da Operação de Cadastro {#publicita-o-da-opera-o-de-cadastro}
+## Publicitação da Operação de Cadastro
 
-Âmbito
+### Âmbito
 
 A publicitação é uma tarefa circunscrita no tempo, cujos requisitos são definidos por lei. Marca o momento a partir do qual o plano operacional de comunicação é implementado, em todas as suas vertentes, pelo que as secções seguintes irão detalhar as sequências típicas a acionar no que tange à comunicação e sensibilização.
 
@@ -8,20 +8,20 @@ O Artigo 13º do Regulamento do Regime Jurídico do Cadastro Predial, com a epí
 
 Deve ser garantida a colaboração dos vários serviços públicos existentes na zona geográfica em questão, onde podem também ser afixados editais, bem como a colaboração de instituições relevantes a nível nacional, mediante divulgação da operação nos respetivos sites institucionais. No que toca à diáspora, as Embaixadas e Consulados de Cabo Verde no exterior, instituições e associações ligadas à diáspora, devem participar na publicitação.
 
-Finalidade
+### Finalidade
 
 Publicitar a Operação de Execução do cadastro e divulgá-la, de acordo com os requisitos legais.
 
-Intervenientes
+### Intervenientes
 
 * INGT;
 * EE \(Equipa de comunicação\).
 
-Diagrama
+### Diagrama
 
 Figura 11 - Publicitação da Operação do Cadastro
 
-Sequência típica / Ações
+### Sequência típica / Ações
 
 1. O INGT com o auxílio da EE cria ou adequa o edital de acordo com modelo existente em anexo para o momento exato do início da operação da execução cadastral;
 
@@ -37,7 +37,7 @@ O INGT, com o apoio do núcleo/equipa de comunicação, organiza uma sessão/eve
 
 A EE dá início à campanha pública de informação/sensibilização: implementar as ações de informação nos meios de comunicação social e de massas: TV, rádios \(comerciais, Educativa e comunitárias\), mediante programas curtos recorrentes, entrevistas, debates, entre outros; e jornais \(impressos e versão on-line, outros sites informativos, incluindo a preocupação de fazer chegar a informação à diáspora\), com reportagens, entrevistas, etc. \(ver seções seguintes em relação à comunicação e sensibilização\).
 
-Fluxograma
+### Fluxograma
 
 Figura 12 - Fluxograma Publicitação da Operação do Cadastro
 

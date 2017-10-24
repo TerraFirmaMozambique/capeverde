@@ -1,6 +1,6 @@
-### Identificação no sistema de Áreas Urbanas de Génese Ilegal {#identifica-o-no-sistema-de-reas-urbanas-de-g-nese-ilegal}
+## Identificação no sistema de Áreas Urbanas de Génese Ilegal
 
-Âmbito
+### Âmbito
 
 Uma Área Urbana de Génese Ilegal  \(também conhecida como AUGI\) é uma designação legal atribuída a prédios ou conjunto de prédios contíguos predominantemente ocupados por construções não licenciadas \(construções ilegais\) ou que tenham sido submetidos a uma operação de parcelamento destinado à construção apesar de não ter sido emitida uma licença de loteamento. Configura-se como um layer a introduzir no sistema \(LMITS\) e equipamentos de recolha de dados, por forma a permitir a identificação das parcelas que cabem dentro dos limites da AUGI, já que as parcelas contidas nas AUGI serão alvo de um rastreio específico em campo.
 
@@ -8,30 +8,29 @@ A AUGI pode abranger mais do que um bairro ou zonas de um bairro. Por exemplo na
 
 Terão o mesmo tratamento as situações/assentamentos que, não sendo AUGI, apresentam características semelhantes. Nomeadamente, situações fora das áreas classificadas como espaços urbanos ou urbanizáveis em que existem construções ilegais e clandestinas, isoladas ou contíguas, decorrente de ocupação espontânea. Sempre que se esteja perante uma situação destas, deve ser accionado o módulo AUGI, viabilizando o rastreio específico conforme definido no _Regime Especial_.
 
-Finalidade
+### Finalidade
 
-Identificar e delimitar geograficamente o layer AUGI.
+* Identificar e delimitar geograficamente o layer AUGI.
+* Verificar a disponibilidade do módulo AUGI para as situações posteriores em que vai ser utilizado.
 
-Verificar a disponibilidade do módulo AUGI para as situações posteriores em que vai ser utilizado.
-
-Intervenientes
+### Intervenientes
 
 * EE;
 * Câmara Municipal;
 * INGT.
 
-Diagrama
+### Diagrama
 
 Figura 15 - Identificação prévia de AUGI
 
-Condições de partida
+### Condições de partida
 
 * Limites das AUGI definidos pelas CM disponíveis no LMITS;
 * As imagens ortorectificadas atualizadas estão disponíveis na aplicação LMITS;
 * As imagens ortorectificadas estão disponíveis no equipamento;
 * O sistema GNSS está operacional via RTK.
 
-Sequência típica do procedimento em AUGI
+### Sequência típica do procedimento em AUGI
 
 1. O técnico da EE e o técnico da CM dirigem-se ao primeiro bairro/zona de bairro que faz parte da AUGI;
 
@@ -43,7 +42,7 @@ Na presença do técnico da CM, o técnico da EE verifica e/ou corrige os vérti
 
 Repetir o procedimento para todas as AUGI conhecidas no território a Cadastrar.
 
-Sequência típica do procedimento em zona Não AUGI \(com construções clandestinas\)
+### Sequência típica do procedimento em zona Não AUGI \(com construções clandestinas\)
 
 1. O técnico da EE e o técnico da CM dirigem-se ao primeiro bairro/zona de bairro que faz parte da AUGI;
 
@@ -55,7 +54,7 @@ Na presença do técnico da CM, o técnico da EE verifica e/ou corrige os vérti
 
 Repetir o procedimento para todas as áreas com construções clandestinas conhecidas no território a Cadastrar.
 
-Pós Condições
+### Pós Condições
 
 Limites de AUGI conhecidos e estão registados no sistema.
 

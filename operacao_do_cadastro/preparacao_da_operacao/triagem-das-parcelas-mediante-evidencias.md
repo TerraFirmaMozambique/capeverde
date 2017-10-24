@@ -1,6 +1,6 @@
-### Triagem das Parcelas Mediante Evidências {#triagem-das-parcelas-mediante-evid-ncias}
+## Triagem das Parcelas Mediante Evidências
 
-Âmbito
+### Âmbito
 
 Verificar as evidências associadas aos polígonos, pesquisando e associando as bases de dados atualmente existentes, matriz predial e alvarás da Câmara Municipal, escrituras e registo predial da DGRNI e ainda património do estado no sentido de perceber qual o grau das evidências existentes e se é possível melhorar em determinados casos a situação atual.
 
@@ -8,23 +8,23 @@ Para as evidências já associadas, garantir para cada parcela a perceção temp
 
 No final deste processo de triagem pretende-se que a atividade subsequente possa ter acesso ao maior número de evidências possíveis associadas aos prédios \(parcela ou construções nela contidas\).
 
-Finalidade
+### Finalidade
 
-Verificação e preparação das evidências de cada parcela para os trabalhos subsequentes.
+* Verificação e preparação das evidências de cada parcela para os trabalhos subsequentes.
 
-Interveniente
+### Interveniente
 
-EE \(Analistas Juristas, para-juristas, informáticos\).
+* EE \(Analistas Juristas, para-juristas, informáticos\).
 
-Ferramentas
+### Ferramentas
 
 Tipificação de Conflitos.
 
-Diagrama
+### Diagrama
 
 Figura 16 - Triagem das parcelas mediante evidências
 
-Sequência típica
+### Sequência típica
 
 Para cada parcela, e para cada prédio/fração o analista deve:
 
@@ -40,11 +40,11 @@ Anotar no respetivo prédio, na página de ações, que medidas devem ser desenc
 
 Anotar no respetivo prédio, se existe a necessidade de especial atenção no trabalho de campo;
 
-Fluxograma
+### Fluxograma
 
 Figura 17 - Fluxograma triagem de parcelas
 
-Pós- Condições
+### Pós- Condições
 
 Triagem e associação de evidências preparadas para o trabalho de terreno por secção cadastral.
 

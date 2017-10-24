@@ -1,6 +1,6 @@
-### Criar Gabinete de Apoio {#criar-gabinete-de-apoio}
+## Criar Gabinete de Apoio
 
-Âmbito
+### Âmbito
 
 A partir da publicitação da operação de cadastro, cabe à EE prestar todas as informações e esclarecimentos solicitados por particulares. Por outro lado, a partir da publicitação, pode ter início a entrega das declarações de titularidade \(embora nas iniciativas sistemáticas de registo se promova a recolha das declarações em campo, durante a visita de terreno\). O _gabinete de apoio_ ao cidadão visa dar resposta a estas e outras necessidades de atendimento personalizado, para além do apoio que virá a ser prestado às pessoas durante o trabalho de campo, pelos inquiridores e outros agentes de terreno.
 
@@ -14,55 +14,38 @@ Espera-se com o estabelecimento do gabinete contribuir para minimizar potenciais
 
 Com base nas demandas recebidas, o gabinete visa:
 
-Prestar informações e esclarecimentos, presencialmente, via telefone ou internet;
+* Prestar informações e esclarecimentos, presencialmente, via telefone ou internet;
+* Apoiar cidadãos na compreensão/efetivação dos diversos procedimentos, com enfoque nos grupos mais vulneráveis/com necessidades especiais; incluído apoio no preenchimento da Declaração de Titularidade caso não tenha sido preenchida
+* Prestar assessoria jurídica, com enfoque nos grupos mais vulneráveis;
+* Prestar assessoria em matéria de resolução informal de conflitos;
+* Encaminhar as pessoas/processos para outros serviços, incluindo para a Casa do Direito, para mediação e arbitragem;
+* Apoiar aos titulares na regularização / formalização de direitos que se revelem informais, incluindo o encaminhamento para isenções e a articulação com entidades relevantes;
+* Apoiar as pessoas no seguimento dos seus processos junto de outras instituições;
+* Encaminhar situações de vulnerabilidade para apoio na Casa do Direitos e, quando necessário, para organizações de sociedade civil;
+* Registar e reagir à sinalização/denúncia de práticas fraudulentas.
 
-Apoiar cidadãos na compreensão/efetivação dos diversos procedimentos, com enfoque nos grupos mais vulneráveis/com necessidades especiais; incluído apoio no preenchimento da Declaração de Titularidade caso não tenha sido preenchida
-
-Prestar assessoria jurídica, com enfoque nos grupos mais vulneráveis;
-
-Prestar assessoria em matéria de resolução informal de conflitos;
-
-Encaminhar as pessoas/processos para outros serviços, incluindo para a Casa do Direito, para mediação e arbitragem;
-
-Apoiar aos titulares na regularização / formalização de direitos que se revelem informais, incluindo o encaminhamento para isenções e a articulação com entidades relevantes;
-
-Apoiar as pessoas no seguimento dos seus processos junto de outras instituições;
-
-Encaminhar situações de vulnerabilidade para apoio na Casa do Direitos e, quando necessário, para organizações de sociedade civil;
-
-Registar e reagir à sinalização/denúncia de práticas fraudulentas.
-
-Finalidade
+### Finalidade
 
 Estabelecer um o gabinete de atendimento ao cidadão no âmbito da operação de cadastro, especialmente vocacionada para os grupos mais vulneráveis, em condições de prestar informações e esclarecimentos, aconselhar sobre procedimentos a seguir no âmbito da Operação e para a formalização de direitos, fazer os encaminhamentos necessários, prestar apoio jurídico e de resolução informal de conflitos.
 
-Intervenientes
+### Intervenientes
 
-EE;
+* EE;
+* Câmara Municipal;
+* Cartório Notarial e Conservatória;
+* Casa do Direito;
+* Casa do Cidadão;
+* Serviços públicos;
+* ONG e associações.
 
-Câmara Municipal;
+### Condições de partida
 
-Cartório Notarial e Conservatória;
+* Publicitação oficial da operação \(60 dias antes do seu início\);
+* Recursos humanos qualificados e capacitados;
+* Folhetos e outros materiais informativos;
+* Parcerias estabelecidas com as instituições relevantes \(em particular Câmara Municipal, Cartório, Conservatória, Casa do Direito, etc.\) com vista a um trabalho em rede.
 
-Casa do Direito;
-
-Casa do Cidadão;
-
-Serviços públicos;
-
-ONG e associações.
-
-Condições de partida
-
-Publicitação oficial da operação \(60 dias antes do seu início\);
-
-Recursos humanos qualificados e capacitados;
-
-Folhetos e outros materiais informativos;
-
-Parcerias estabelecidas com as instituições relevantes \(em particular Câmara Municipal, Cartório, Conservatória, Casa do Direito, etc.\) com vista a um trabalho em rede.
-
-Ações
+### Ações
 
 1. Identificar localização acessível, do ponto de vista físico e social \(ex. escolha de instituição equidistante / neutra em relação aos serviços públicos\);
 2. Estabelecer os procedimentos para um trabalho coordenado com as principais instituições \(esta acção será contínua ao longo de toda a Operação, à medida que surgem novas necessidades ao longo das diferentes etapas da Operação\), por exemplo:

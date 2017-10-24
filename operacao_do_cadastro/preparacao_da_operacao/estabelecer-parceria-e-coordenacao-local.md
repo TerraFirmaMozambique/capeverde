@@ -1,6 +1,6 @@
-### Estabelecer Parceria e Coordenação Local Propícia à Apropriação da Operação de Cadastro {#estabelecer-parceria-e-coordena-o-local-prop-cia-apropria-o-da-opera-o-de-cadastro}
+## Estabelecer Parceria e Coordenação Local Propícia à Apropriação da Operação de Cadastro
 
-Âmbito
+### Âmbito
 
 Em termos de envolvimento inicial de todas as forças vivas da sociedade, para além do lançamento oficial da Operação, deve haver \(entre outras actividades\) sessões de apresentação/discussão da Operação \(ex. formato de atelier participativo de meio-dia ou um dia\) com o setor público, privado e da sociedade civil: nomeadamente os/as técnicos/as dos diferentes serviços públicos, empresas, imobiliárias, elites profissionais, juristas, organizações da sociedade civil, incluindo ONG, associações de desenvolvimento comunitário e confissões religiosas. Estas sessões visam a mobilização dos diferentes actores, para que sejam aliados na multiplicação de informações e promoção de um ambiente propício à implementação da Operação. O media são ainda outro parceiro privilegiado a mobilizar.
 
@@ -10,31 +10,27 @@ A estratégia de comunicação deve prever a existência de uma liderança parti
 
 A estratégia deve seguir um desenho em “cascata”, a começar pela apresentação institucional da operação e da sua “razão de ser”. Nesta etapa o foco é em dois feixes de comunicação: \(i\) interna - dirigida aos intervenientes-chave; e \(ii\) pública - dirigida aos cidadãos com a comunicação da Operação no seu todo, as ações programadas e os benefícios esperados.
 
-Finalidade
+### Finalidade
 
 Estabelecer uma coordenação e parceria local, incluindo a sociedade civil, com base numa visão partilhada da operação e responsabilidades/participação dos diferentes atores, facilitadora da participação e adesão de todos à iniciativa de registo sistemático.
 
-Intervenientes
+### Intervenientes
 
-EE;
+* EE;
+* EAT;
+* Núcleo/equipa de comunicação criado \(incluindo especialista de comunicação e técnicos/agentes comunitários conhecedores da realidade local\);
+* Serviços públicos;
+* ONG e associações.
 
-EAT;
-
-Núcleo/equipa de comunicação criado \(incluindo especialista de comunicação e técnicos/agentes comunitários conhecedores da realidade local\);
-
-Serviços públicos;
-
-ONG e associações.
-
-Diagrama
+### Diagrama
 
 Figura 13 - Estabelecer Parceria e Coordenação Local
 
-Condições de partida
+### Condições de partida
 
 Diagnóstico social, de género e ambiental; análise das partes interessadas; estratégia de comunicação e plano; produtos comunicacionais elaborados \(anúncios, _spots_, cartazes, _folders, indoors,_ etc.\)
 
-Sequência típica
+### Sequência típica
 
 1. O INGT coordena e programa com os seus parceiros a vertente de comunicação de massas do Plano e dá início à campanha, assente numa variedade de meios de comunicação e mensagens para as várias audiências: entidades públicas, privadas, investidores, diáspora, grupos vulneráveis, população em geral;
 
