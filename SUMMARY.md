@@ -16,6 +16,7 @@
   * [Direitos e Obrigações dos Titulares Cadastrais](enquadramento/direitos_e_obrigacoes_dos_titulares_cadastrais.md)
   * [Documentos Oficiais que Provam o Direito dos Titulares Cadastrais](enquadramento/documentos_oficiais_que_provam_o_direito_dos_titul.md)
   * [Aspetos Transversais](enquadramento/aspetos_transversais.md)
+    * [Restrições Administrativo-legais, ambientais e urbanísticas](enquadramento/aspetos_transversais/restricoes-administrativo-legais-ambientais-e-urbanisticas.md)
   * [Sistema Nacional de Coordenadas](enquadramento/sistema_nacional_de_coordenadas.md)
   * [LMITS](enquadramento/lmits.md)
   * [Incentivos administrativos](enquadramento/incentivos_administrativos.md)
