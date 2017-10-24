@@ -10,6 +10,8 @@
 * [Enquadramento](enquadramento/README.md)
   * [Divisão Administrativa do País](enquadramento/divisao_administrativa_do_pais.md)
   * [Enquadramento Jurídico e Institucional](enquadramento/enquadramento_juridico_e_institucional.md)
+    * [Resolução de conflitos](enquadramento/enquadramento_juridico_e_institucional/resolucao-de-conflitos.md)
+    * [Formalização](enquadramento/enquadramento_juridico_e_institucional/formalizacao.md)
   * [Atores e responsabilidades](enquadramento/atores_e_responsabilidades.md)
   * [Direitos e Obrigações dos Titulares Cadastrais](enquadramento/direitos_e_obrigacoes_dos_titulares_cadastrais.md)
   * [Documentos Oficiais que Provam o Direito dos Titulares Cadastrais](enquadramento/documentos_oficiais_que_provam_o_direito_dos_titul.md)
