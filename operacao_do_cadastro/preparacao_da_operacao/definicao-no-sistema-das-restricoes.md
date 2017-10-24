@@ -8,11 +8,11 @@ As avaliações feitas com o suporte em SIG facilitam o trabalho dos analistas \
 
 Os 5 temas e respectivas camadas \(_layers_ no LMITS\) a ter em conta são os seguintes:
 
-* Áreas de servidão, especificando cada um das servidões existentes na área a cadastrar e, para cada uma delas os subníveis de condicionantes \(ex. servidão aeroportuária, zona 7 \(cone de descolagem / aterragem\), zona 2 \(maior risco de acidente, zona 5 \(ruídos\), etc.\);
-* Áreas de domínio público, especificando cada uma \(ex. orla marítima, etc.\);
-* Áreas de utilidade pública, tais como as ZDTI;
-* Áreas de protecção, discriminando as diferentes categorias \(património cultural e áreas protegidas, incluindo as subdivisões reserva natural, parque natural, parque nacional, monumentos naturais, paisagens protegidas, sítios de interesse científico, que são relevantes do ponto de vista do tipo de condicionantes;
-* Áreas de risco / segurança pública, especificando cada uma delas \(ex. riscos de cheias repentinas / inundação, linhas de água principais e secundárias \(e respectiva zona de buffer\), zonas de inclinação extrema, etc.\).
+1. Áreas de servidão, especificando cada um das servidões existentes na área a cadastrar e, para cada uma delas os subníveis de condicionantes \(ex. servidão aeroportuária, zona 7 \(cone de descolagem / aterragem\), zona 2 \(maior risco de acidente, zona 5 \(ruídos\), etc.\);
+2. Áreas de domínio público, especificando cada uma \(ex. orla marítima, etc.\);
+3. Áreas de utilidade pública, tais como as ZDTI;
+4. Áreas de protecção, discriminando as diferentes categorias \(património cultural e áreas protegidas, incluindo as subdivisões reserva natural, parque natural, parque nacional, monumentos naturais, paisagens protegidas, sítios de interesse científico, que são relevantes do ponto de vista do tipo de condicionantes;
+5. Áreas de risco / segurança pública, especificando cada uma delas \(ex. riscos de cheias repentinas / inundação, linhas de água principais e secundárias \(e respectiva zona de buffer\), zonas de inclinação extrema, etc.\).
 
 Outras restrições que não estão listadas acima, não se constituem como camadas \(_layers_\) no LMITS, e são antes registadas a nível da classificação da parcela \(ex. no caso de avançados, equipamentos sociais do domínio público, estradas, prédios encravados, etc.\).
 
@@ -37,6 +37,8 @@ A bases de dados cartográficas geradas pela ferramenta de rastreio SIG serão o
 2. Criar os layers necessários, que possam identificar todas as tipologias de restrições administrativo-legais e ambientais e respectivas subdivisões relevantes do ponto de vista cadastral.
 
 ### Fluxograma
+
+![](/assets/def_restr_14.jpg)
 
 Figura 14 - Fluxograma Definir de Restrições ambientais
 
