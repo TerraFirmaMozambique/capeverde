@@ -90,11 +90,11 @@ Processo pelo qual se dá extingue o contrato de aforamento, adquirindo o foreir
 
 A plataforma informática integrada de gestão e transação da propriedade desenvolvida especificamente para o cadastro predial e registo ou outra que a vier a substituir
 
-## AAC
+## AAC
 
 Agência de Aviação Civil
 
-## ACI
+## ACI
 
 Assentamento ou Construção Irregular
 
@@ -106,7 +106,7 @@ Assentamento ou Construção Irregular
 
 Casa do Cidadão
 
-## CIP
+## CIP
 
 Certidão de Identificação Predial
 
@@ -114,7 +114,7 @@ Certidão de Identificação Predial
 
 Câmara\(s\) Municipa\(is\)
 
-## CMSAL
+## CMSAL
 
 Câmara Municipal do Sal
 
@@ -130,47 +130,47 @@ Centro de Mediação e Arbitragem da Terra do Sal
 
 Cartório Notarial
 
-## CPU
+## CPU
 
 Certidão Predial Única
 
-## CRP
+## CRP
 
 Conservatória do Registo Predial
 
-## DGPE
+## DGPE
 
 Direção Geral do Património do Estado
 
-## DGRNI
+## DGRNI
 
 Direção Geral dos Registos e Notariado
 
-## EAT
+## EAT
 
 Equipa de Apoio Técnico / Technical Support Team
 
-## EE
+## EE
 
 Entidade Executante \(pode ser SP ou outra entidade\)
 
-## EMQ
+## EMQ
 
 Erro Médio Quadrático
 
-## GNSS
+## GNSS
 
 Global Navigation Satellite System
 
-## INGT
+## INGT
 
 Instituto Nacional de Gestão Territorial
 
-## LMITS
+## LMITS
 
 Land Management Information & Transaction System
 
-## MCA-CVII
+## MCA-CVII
 
 Millennium Challenge Account – Cape Verde II
 
@@ -202,7 +202,7 @@ Sistema Informação Geográfica
 
 Service Provider
 
-## SDTBIM
+## SDTBIM
 
 Sociedade de Desenvolvimento Turístico das Ilhas da Boa Vista e Maio
 
