@@ -10,17 +10,23 @@ Para os aspetos transversais - ambiente, social e género, comunicação e sensi
 
 Se for uma entidade privada, deve ser seleccionada por concurso público e credenciada pelo serviço central responsável pelo cadastro \(INGT\), por despacho publicado no Boletim Oficial.
 
-* [ ]  EAT nomeada para cada Operação
+* [ ] EAT nomeada para cada Operação
 
-Os técnicos que integram a EAT são designados pelas respectivas instituições \(até 15 dias após a publicitação da Operação em questão\).
+Os técnicos que integram a EAT são designados pelas respectivas instituições \(até 15 dias após a publicitação da Operação em questão\).
 
-O regulamento de organização e funcionamento da EAT é aprovado por Portaria dos membros do Governo responsáveis pelas áreas de cadastro, justiça e património do Estado.
+O regulamento de organização e funcionamento da EAT é aprovado por Portaria dos membros do Governo responsáveis pelas áreas de cadastro, justiça e património do Estado.
 
-* [ ]  Recursos humanos, técnicos, financeiros identificados e mobilizados, em todas as instituições directamente envolvidas na Operação, tendo em conta o volume de trabalho com que irão lidar durante a Operação
+* [ ] Recursos humanos, técnicos, financeiros identificados e mobilizados, em todas as instituições directamente envolvidas na Operação, tendo em conta o volume de trabalho com que irão lidar durante a Operação
 
+Instituições membro da EAT: tomada de decisão sobre todos os prédios abrangidos pela Operação \(na etapa pós consulta pública, de análise da caracterização provisória e aprovação da caracterização definitiva, devem disponibilizar representantes a tempo inteiro\).
 
+Câmara Municipal: os seus vários departamentos têm intervenção maciça e sistemática na formalização de direitos; fornecem informações físicas e jurídicas à EE informação sobre terrenos por ela cedidos.
 
+Cartório Notarial: intervenção maciça e sistemática na formalização de direitos.
 
+Conservatória: procede ao registo predial oficioso de todos os prédios abrangidos pela Operação \(primeiras descrições e inscrições; averbamentos/actualizações\)
+
+Património do Estado e Câmara Municipal: devem participar, ao lado da EE, em todas etapas da Operação; enquanto titulares cadastrais demarcar todos os seus prédios, fornecer à EE as respectivas informações físicas, e as jurídicas. 
 
 ### Aspetos técnicos
 
