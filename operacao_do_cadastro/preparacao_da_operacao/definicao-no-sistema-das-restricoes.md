@@ -44,5 +44,7 @@ Figura 14 - Fluxograma Definir de Restrições ambientais
 
 ### Pós-Condições
 
-As restrições administrativo-legais e ambientais durante a fase de preparação estão registados no sistema o que permitirá uma abordagem específica quando se estiver no terreno, mediante ferramentas de caracterização e rastreio ambiental.
+* As restrições administrativo-legais e ambientais durante a fase de preparação estão registados no sistema o que permitirá uma abordagem específica quando se estiver no terreno, mediante ferramentas de caracterização e rastreio ambiental.
+
+
 

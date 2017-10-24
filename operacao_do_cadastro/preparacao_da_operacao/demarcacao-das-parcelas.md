@@ -8,8 +8,7 @@ Esta demarcação deve ser feita em conformidade com pelo menos um dos seguintes
 
 * Respetivo título
 * Planta de localização
-
-Em harmonia com a posse dos confinantes.
+* Em harmonia com a posse dos confinantes.
 
 Esta demarcação é o ato onde o titular cadastral e os seus confinantes colocam “marcas” delimitando os limites das suas parcelas de modo provisório. Os titulares cadastrais devem colocar tantas “marcas” quantas necessárias para à correta definição das suas estremas. Quanto mais irregulares forem os prédios maior será o número de “marcas” a colocar para definir corretamente a sua forma. Sempre que houver uma inflexão numa das estremas deve ser colocada uma “marca”.
 

@@ -24,85 +24,72 @@ EE em coordenação com Casa do Cidadão/Porton Di Nos Ilha/outras entidades.
 
 ### Diagrama
 
+![](/assets/decl_tit_18.jpg)
+
 Figura 18 - Declaração de Titularidade, presencial
 
 ### Fluxograma
 
+![](/assets/flux_decl_tit_19.jpg)
+
 Figura 19 - Fluxograma Declaração de Titularidade, presencial
+
+![](/assets/decl_tit_int_20.jpg)
 
 Figura 20 - Declaração de Titularidade via internet
 
 ### Condições de partida
 
-1. Existe conectividade ao sistema central;
-2. Sistema na função **Declaração de Titularidade** disponível via internet no portal previamente definido;
-3. Existe um polígono para a parcela sobre o qual vai haver declaração ou qualquer outra evidência.
+* Existe conectividade ao sistema central;
+* Sistema na função **Declaração de Titularidade** disponível via internet no portal previamente definido;
+* Existe um polígono para a parcela sobre o qual vai haver declaração ou qualquer outra evidência.
 
 ### Sequência típica
 
 No gabinete de apoio ao cidadão:
 
 1. O **atendedor/inquiridor** começa o procedimento utilizando a aplicação LMITS para selecionar a parcela no mapa, sob indicação e supervisão do \(s\) declarante \(s\);
-
-O atendedor escolhe a opção “ &lt;&lt;propostas/prédios&gt;&gt;”
-
-O sistema apresenta uma lista de prédios \(em caso de PH podem ser muitos\) e o utilizador escolhe qual o prédio;
-
-O utilizador escolha a opção &lt;Nova Declaração&gt;
-
-O sistema apresenta o formulário da declaração com os atributos obrigatórios e facultativos;
-
-O atendedor preenche o formulário conforme indicações do declarante;
-
-O atendedor pede a confirmação dos dados e solicita assinatura no _“pad”_ digitalização de assinaturas
-
-O atendedor imprime uma cópia da declaração e entrega ao Declarante.
+2. O atendedor escolhe a opção “ &lt;&lt;propostas/prédios&gt;&gt;”
+3. O sistema apresenta uma lista de prédios \(em caso de PH podem ser muitos\) e o utilizador escolhe qual o prédio;
+4. O utilizador escolha a opção &lt;Nova Declaração&gt;
+5. O sistema apresenta o formulário da declaração com os atributos obrigatórios e facultativos;
+6. O atendedor preenche o formulário conforme indicações do declarante;
+7. O atendedor pede a confirmação dos dados e solicita assinatura no _“pad”_ digitalização de assinaturas
+8. O atendedor imprime uma cópia da declaração e entrega ao Declarante.
 
 ### Sequência Excecionais
 
 A1 - Não existe nenhum prédio associado a parcela
 
-O atendedor escolhe “caracterização do prédio”,
-
-O sistema apresenta o formulário com tipo de prédio e número de unidades
-
-O sistema cria uma proposta por cada unidade administrativa e uma adicional para o caso de Propriedade Horizontal, todas no estado “preparação”
+1. O atendedor escolhe “caracterização do prédio”,
+2. O sistema apresenta o formulário com tipo de prédio e número de unidades
+3. O sistema cria uma proposta por cada unidade administrativa e uma adicional para o caso de Propriedade Horizontal, todas no estado “preparação”
 
 Continuar com a sequência típica
 
 A2 - A declaração é de propriedade horizontal
 
-Verificar se o declarante cumpre e prova os requisitos previstos na lei \(administrador/condómino\)
-
-Prosseguir com a sequencia típica para o prédio em propriedade horizontal e todas as frações associadas.
+1. Verificar se o declarante cumpre e prova os requisitos previstos na lei \(administrador/condómino\)
+2. Prosseguir com a sequencia típica para o prédio em propriedade horizontal e todas as frações associadas.
 
 ## Declaraões Via Internet:
 
 1. O declarante/titular cadastral acede via internet ao portal de serviços públicos \(portonDiNosIlha\), devidamente autenticado;
-
-Acede à opção Cadastro Predial&gt; Declaração de Titularidade, em destaque durante a operação do cadastro;
-
-O sistema apresenta os passos para o serviço em modo diagrama \(Com mapa, sem mapa, declaração, anexar comprovativos e impressão\);
-
-O sistema apresenta o primeiro passo e pergunta se pretende visualizar e indicar no mapa o lote onde se situa o prédio, recomendando que assim seja;
-
-Se escolher o mapa são apresentados os lotes com ferramentas de navegabilidade e o utilizador tem a opção de clicar no lote, ou de clicar na opção lote não encontrado;
-
-O sistema apresenta o formulário do LIMTS da declaração com os atributos obrigatórios e facultativos;
-
-O **declarante** preenche o formulário conforme indicações no sistema;
-
-O sistema pede a confirmação dos dados e o utilizador valida ou redita;
-
-A declaração é guardada no sistema e caso tenha sido selecionado um lote fica associação estabelecida entre lote e declaração;
-
-O sistema solicita a anexação de documento de identificação \(cópia do bilhete de identidade ou passaporte\);
-
-Terminado, o Sistema imprime uma cópia da declaração, ou cria um PDF ou ainda envia um correio eletrónico com a cópia da declaração para a conta registrada na declaração;
-
-As declarações efetuadas pelo titular ficam disponíveis para posterior acompanhamento.
+2. Acede à opção Cadastro Predial&gt; Declaração de Titularidade, em destaque durante a operação do cadastro;
+3. O sistema apresenta os passos para o serviço em modo diagrama \(Com mapa, sem mapa, declaração, anexar comprovativos e impressão\);
+4. O sistema apresenta o primeiro passo e pergunta se pretende visualizar e indicar no mapa o lote onde se situa o prédio, recomendando que assim seja;
+5. Se escolher o mapa são apresentados os lotes com ferramentas de navegabilidade e o utilizador tem a opção de clicar no lote, ou de clicar na opção lote não encontrado;
+6. O sistema apresenta o formulário do LIMTS da declaração com os atributos obrigatórios e facultativos;
+7. O **declarante** preenche o formulário conforme indicações no sistema;
+8. O sistema pede a confirmação dos dados e o utilizador valida ou redita;
+9. A declaração é guardada no sistema e caso tenha sido selecionado um lote fica associação estabelecida entre lote e declaração;
+10. O sistema solicita a anexação de documento de identificação \(cópia do bilhete de identidade ou passaporte\);
+11. Terminado, o Sistema imprime uma cópia da declaração, ou cria um PDF ou ainda envia um correio eletrónico com a cópia da declaração para a conta registrada na declaração;
+12. As declarações efetuadas pelo titular ficam disponíveis para posterior acompanhamento.
 
 ### Fluxograma
+
+![](/assets/flux_decl_tit_21.jpg)
 
 Figura 21 - Fluxograma Declaração de titularidade via Internet
 
