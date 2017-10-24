@@ -1,6 +1,6 @@
-### Caracterização das seções cadastrais do ponto de vista ambiental e de restrições administrativo-legais {#caracteriza-o-das-se-es-cadastrais-do-ponto-de-vista-ambiental-e-de-restri-es-administrativo-legais}
+## Caracterização das seções cadastrais do ponto de vista ambiental e de restrições administrativo-legais
 
-Âmbito
+### Âmbito
 
 Uma dimensão fundamental da preparação do trabalho de levantamento cadastral é a caracterização das seções cadastrais, ou seja identificar que restrição \(ou quais\) afectam que blocos. De acordo com as restrições seleccionadas \(com base no estudo prévio das restrições relevantes\) e com base nos respectivos _layers_ introduzidos no sistema, trata-se de verificar se, em determinadas seções cadastrais, existem condicionantes à titularidade e/ou aos usos autorizados para determinadas parcelas do bloco cadastral.
 
@@ -12,47 +12,43 @@ Esta listagem será a base para a verificação no terreno dos usos dados da par
 
 NOTA: caso os _layers_ não existam no sistema \(LMITS\), esta análise é feita com recurso a ferramentas SIG, fora do LMITS. Pode-se utilizar o programa ARCGIS ou outra ferramenta GIS, realizando as mesmas acções da sequência típica _online_.
 
-Finalidade
+### Finalidade
 
-Identificar as restrições administrativas-legais e ambientais que afectam cada bloco cadastral e, quando possível, quantificar o número de polígonos afectados no sistema LMITS.
+* Identificar as restrições administrativas-legais e ambientais que afectam cada bloco cadastral e, quando possível, quantificar o número de polígonos afectados no sistema LMITS.
 
-Condições de partida
+### Condições de partida
 
-Existem os mapas temáticos de informação carregados no sistema \(tendo em conta restrições e seus subníveis\).
+* Existem os mapas temáticos de informação carregados no sistema \(tendo em conta restrições e seus subníveis\).
+* Quando possível existem polígonos no sistema.
+* Existem layers de informação administrativas \(seções cadastrais\).
 
-Quando possível existem polígonos no sistema.
+### Intervenientes
 
-Existem layers de informação administrativas \(seções cadastrais\).
+* EE \(Analista SIG, técnico ambiental, jurista\).
 
-Intervenientes
-
-EE \(Analista SIG, técnico ambiental, jurista\).
-
-Diagrama
+### Diagrama
 
 ![Macintosh HD:Users:PNM:Downloads:MCA.LAND Identificar Restrição Ambiental - New Page.png](../assets/macintosh_hduserspnmdownloadsmc.png)
 
 Figura 24 - Caracterizar as restrições de cada bloco cadastral
 
-Sequência típica
+### Sequência típica
 
 Para cada bloco cadastral o analista deve:
 
-Selecionar os _layers_ de restrições;
+1. Selecionar os _layers_ de restrições;
+2. Avaliar os blocos de acordo com as condicionantes existentes;
+3. Anotar os polígonos afectados por cada restrição relevante \(quando existem polígonos no sistema\); ex. pela área de servidão aeroportuária \(zonas de maior risco\), área de proteção, área de risco/ segurança pública, etc.;
+4. Caso os polígonos não existam ou venham a ser delimitado posteriormente, a informação vai aparecer em todos os prédios abrangidos pelo _layer_, de acordo com os \_layer\_s selecionados.
 
-Avaliar os blocos de acordo com as condicionantes existentes;
-
-Anotar os polígonos afectados por cada restrição relevante \(quando existem polígonos no sistema\); ex. pela área de servidão aeroportuária \(zonas de maior risco\), área de proteção, área de risco/ segurança pública, etc.;
-
-Caso os polígonos não existam ou venham a ser delimitado posteriormente, a informação vai aparecer em todos os prédios abrangidos pelo _layer_, de acordo com os \_layer\_s selecionados.
-
-Fluxogramas
+### Fluxogramas
 
 Figura 25 - Fluxograma Identificação de restrições ambientais
 
-Pós-Condições
+### Pós-Condições
 
-Mapeamento das restrições a ter em conta durante o trabalho de levantamento, por bloco cadastral \(quais as servidões e que zonas especificas destas devem, do ponto de vista cadastral – direitos e usos da terra, ser assinaladas, para o presente e para o futuro\).
+* Mapeamento das restrições a ter em conta durante o trabalho de levantamento, por bloco cadastral \(quais as servidões e que zonas especificas destas devem, do ponto de vista cadastral – direitos e usos da terra, ser assinaladas, para o presente e para o futuro\).
+* Listagem dos polígonos afetados pelas diferentes restrições \(quando pré-existem no sistema\).
 
-Listagem dos polígonos afetados pelas diferentes restrições \(quando pré-existem no sistema\).
+
 

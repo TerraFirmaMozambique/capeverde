@@ -1,4 +1,4 @@
-### Revisão e Sistematização da Informação {#revis-o-e-sistematiza-o-da-informa-o}
+## Revisão e Sistematização da Informação
 
 Em função dos sectores cadastrais é necessário rever e sistematizar a informação existente por forma a conseguir planear as intervenções de campo e etapas subsequentes.
 
