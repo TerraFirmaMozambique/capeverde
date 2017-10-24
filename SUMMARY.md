@@ -2,7 +2,6 @@
 
 * [MANUAL DE OPERAÇÕES](README.md)
 * [Ficha Técnica    ](ficha_tecnica.md)
-* [Acrónimos](acronimos.md)
 * [Introdução](introducao/README.md)
   * [Objetivos](introducao/objetivos.md)
   * [Audiência do Manual](introducao/audiencia_do_manual.md)
