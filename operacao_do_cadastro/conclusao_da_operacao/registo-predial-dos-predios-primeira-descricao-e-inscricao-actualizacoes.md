@@ -1,4 +1,4 @@
-### Registo Predial dos prédios: primeira descrição e inscrição / actualizações {#registo-predial-dos-pr-dios-primeira-descri-o-e-inscri-o-actualiza-es}
+## Registo Predial dos prédios: primeira descrição e inscrição / actualizações
 
 Finalizada a Operação de execução do Cadastro Predial, o registo predial é obrigatório na zona cadastrada. Os prédios omissos na Conservatória do Registo Predial são obrigatoriamente e oficiosamente registados, logo após a caraterização definitiva. O prazo para o registo predial dos prédios cadastrados é de 30 dias, contados a partir da data da caraterização definitiva. O registo predial obrigatório e oficioso diz respeito também a averbamento e atualização da informação que consta do registo predial, conforme elementos recolhidos e validados pela Operação. São por exemplo actualizadas as informações relativas à área, aos confiantes, ao estado civil do sujeito ativo, ao nome do cônjuge e respetivo regime de bens.
 
