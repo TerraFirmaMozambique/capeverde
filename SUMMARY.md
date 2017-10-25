@@ -57,7 +57,6 @@
       * [Tratar Informação Sobre as Evidências](operacao_do_cadastro/aquisicao_de_dados_cadastrais/harmonizacao-dos-dados-recolhidos/tratar-informacao-sobre-as-evidencias.md)
       * [Tratar Eventos com Impacto no Cadastro](operacao_do_cadastro/aquisicao_de_dados_cadastrais/harmonizacao-dos-dados-recolhidos/tratar-eventos-com-impacto-no-cadastro.md)
     * [Retificação de Declaração](operacao_do_cadastro/aquisicao_de_dados_cadastrais/rastreio-social-e-de-genero.md)
-    * [Harmonização dos Dados Recolhidos](operacao_do_cadastro/aquisicao_de_dados_cadastrais/harmonizacao-dos-dados-recolhidos.md)
   * [Tratamento e Resolução de conflitos](operacao_do_cadastro/tratamento_e_resolucao_de_conflitos.md)
   * [Emissão de Parecer](operacao_do_cadastro/emissao_de_parecer.md)
     * [Emissão de Parecer para Processos Conforme](operacao_do_cadastro/emissao_de_parecer/emissao-de-parecer-para-processos-conforme.md)
