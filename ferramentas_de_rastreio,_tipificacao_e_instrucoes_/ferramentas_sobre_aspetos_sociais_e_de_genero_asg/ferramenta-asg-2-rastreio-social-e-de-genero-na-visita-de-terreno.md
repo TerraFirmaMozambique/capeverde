@@ -1,8 +1,7 @@
-### Ferramenta ASG 2: Rastreio social e de género na visita de terreno {#ferramenta-asg-2-rastreio-social-e-de-g-nero-na-visita-de-terreno}
+## Ferramenta ASG 2: Rastreio social e de género na visita de terreno
 
-1. O\(a\) inquiridor\(a\) verifica, ao entrar em contacto com um agregado, quem são os titulares/representantes de agregados em presença;
-
-Para cada titular/representante de agregado verifica se existe alguma das seguintes características:
+* O\(a\) inquiridor\(a\) verifica, ao entrar em contacto com um agregado, quem são os titulares/representantes de agregados em presença;
+* Para cada titular/representante de agregado verifica se existe alguma das seguintes características:
 
 Tendo como referência o\(a\) _representante do agregado_ de que faz parte o\(a\) titular, assinalar:
 
@@ -34,27 +33,22 @@ Tendo como referência o\(a\) _titular_, sinalizar as seguintes situações:
 |  | Deficiência auditiva |
 |  | Outra deficiência \(assinalar qual\) |
 
-Sempre que se verifique pelo menos uma das situações identificadas na tabela, registar as características no LMITS \(menu pré-definido\) associado ao nome da pessoa;
+* Sempre que se verifique pelo menos uma das situações identificadas na tabela, registar as características no LMITS \(menu pré-definido\) associado ao nome da pessoa;
+* Obs.: só devem ser assinaladas as situações de vulnerabilidade \(por exemplo; se um titular é estrangeiro, só deve ser sinalizado SE não domina português ou crioulo; se o titular é emigrante ou estrangeiro, só deve ser assinalado SE não tem representante no país; o emprego só deve ser registado SE é uma situação de emprego precário; etc.\).
+* Adaptar a prestação de informações e identificar necessidades de apoio adicional para concretizar procedimentos \(declaração, demarcação\) e, sempre que necessário encaminhar para o Gabinete de Apoio, para um acompanhamento personalizado\).
 
-Obs.: só devem ser assinaladas as situações de vulnerabilidade \(por exemplo; se um titular é estrangeiro, só deve ser sinalizado SE não domina português ou crioulo; se o titular é emigrante ou estrangeiro, só deve ser assinalado SE não tem representante no país; o emprego só deve ser registado SE é uma situação de emprego precário; etc.\).
+### NOTA 1:
 
-Adaptar a prestação de informações e identificar necessidades de apoio adicional para concretizar procedimentos \(declaração, demarcação\) e, sempre que necessário encaminhar para o Gabinete de Apoio, para um acompanhamento personalizado\).
+* A união de facto não reconhecida é uma situação de grande vulnerabilidade, na medida em que existe um risco real de um dos titulares não conseguir fazer valer os seus direitos.
+* Deve obrigatoriamente ser sinalizada.
+* Quando o prédio foi adquirido na constância da união \(mesmo que essa união já tenha terminado\), mas os documentos do prédio estão apenas em nome de um dos titulares, as informações quanto à união de facto devem obrigatoriamente ser prestadas aos dois titulares.
+* Caso não seja possível prestar as informações no momento, a equipa deve voltar ao prédio ou sinalizar o prédio à equipa ASG \(que poderá fazer um visita ao terreno ou contactar os titulares para fazer uma marcação\).
+* Caso as informações não sejam bem recebidas ou entendidas pelos titulares, a equipa deve sinalizar a situação à equipa ASG \(que faz um visita ao terreno ou contacta os titulares para fazer uma marcação\).
+* Para maior facilidade na verificação das situações de união que precisam de atenção, usar a ferramenta ASG 3
 
-NOTA 1:
+### NOTA 2:
 
-A união de facto não reconhecida é uma situação de grande vulnerabilidade, na medida em que existe um risco real de um dos titulares não conseguir fazer valer os seus direitos.
+* O estado civil de casado e divorciado também é sinalizado, já que implica a recolha de mais informações, tais como o regime patrimonial de casamento, sentença de divórcio, etc.
 
-Deve obrigatoriamente ser sinalizada.
 
-Quando o prédio foi adquirido na constância da união \(mesmo que essa união já tenha terminado\), mas os documentos do prédio estão apenas em nome de um dos titulares, as informações quanto à união de facto devem obrigatoriamente ser prestadas aos dois titulares.
-
-Caso não seja possível prestar as informações no momento, a equipa deve voltar ao prédio ou sinalizar o prédio à equipa ASG \(que poderá fazer um visita ao terreno ou contactar os titulares para fazer uma marcação\).
-
-Caso as informações não sejam bem recebidas ou entendidas pelos titulares, a equipa deve sinalizar a situação à equipa ASG \(que faz um visita ao terreno ou contacta os titulares para fazer uma marcação\).
-
-Para maior facilidade na verificação das situações de união que precisam de atenção, usar a ferramenta ASG 3
-
-NOTA 2:
-
-O estado civil de casado e divorciado também é sinalizado, já que implica a recolha de mais informações, tais como o regime patrimonial de casamento, sentença de divórcio, etc.
 
