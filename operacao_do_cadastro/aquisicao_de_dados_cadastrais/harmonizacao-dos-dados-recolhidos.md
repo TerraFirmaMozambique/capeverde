@@ -4,21 +4,14 @@
 
 Este secção do Manual visa mostrar como harmonizar de forma global e de acordo com as ferramentas legais, ambiental, de género e social, os dados de:
 
-Declarações de titularidade;
-
-Informações de caracterização do prédio;
-
-Informações de titulares cadastrais;
-
-Informação dos direitos
-
-Informação sobre as evidências;
-
-Informação sobre eventuais restrições sobre o território;
-
-Informação sobre potenciais conflitos;
-
-Informação sobre eventos que possam ter impacto em encaminhar a proposta para o cadastro deferido.
+* Declarações de titularidade;
+* Informações de caracterização do prédio;
+* Informações de titulares cadastrais;
+* Informação dos direitos
+* Informação sobre as evidências;
+* Informação sobre eventuais restrições sobre o território;
+* Informação sobre potenciais conflitos;
+* Informação sobre eventos que possam ter impacto em encaminhar a proposta para o cadastro deferido.
 
 Figura 39 - Harmonização da Proposta
 
