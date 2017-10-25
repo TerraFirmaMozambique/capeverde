@@ -1,4 +1,4 @@
-### Harmonização dos Dados Recolhidos {#harmoniza-o-dos-dados-recolhidos}
+## Harmonização dos Dados Recolhidos
 
 À medida que é efetuada a visita de campo, as propostas entram no sistema e os dados recolhidos podem ser harmonizados pelos técnicos de _BackOffice_, de modo a poderem ser qualificados e posteriormente enviados à EAT.
 
