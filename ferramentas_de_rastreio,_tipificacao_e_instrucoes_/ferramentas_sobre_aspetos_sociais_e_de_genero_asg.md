@@ -77,7 +77,7 @@ Tendo como referência o\(a\) _representante do agregado_ de que faz parte o\(a\
 |  | Emprego sazonal/ocasional |
 |  | Ocupação agrícola/piscatória |
 |  | Emprego doméstico |
-|  | Outra situação de emprego precário \(descrever _**\_\_**_\) |
+|  | Outra situação de emprego precário \(descrever _\*\*\_\_\*\*\_\) |
 
 Tendo como referência o\(a\) _titular_, sinalizar as seguintes situações:
 
