@@ -1,6 +1,6 @@
-#### Emitir comprovativo da visita {#emitir-comprovativo-da-visita}
+## Emitir comprovativo da visita
 
-Âmbito
+### Âmbito
 
 Este procedimento visa entregar a um titular cadastral um comprovativo em que foi feita uma visita ao terreno.
 
@@ -10,21 +10,21 @@ Esse comprovativo tem como objetivo servir de _token_ entre o visitado e a EE, e
 
 Caso esta funcionalidade não esteja disponível no sistema, deve ser adotado uma alternativa fora do sistema \(por exemplo entrega de cartão onde consta o número do polígono e do processo\).
 
-Finalidade
+### Finalidade
 
 Emitir um comprovativo da visita ao terreno ao titular cadastral.
 
-Interveniente
+### Interveniente
 
 Inquiridor \(EE\);
 
 Titular cadastral.
 
-Diagrama
+### Diagrama
 
 Figura 37 - Emitir Comprovativo da visita
 
-Sequência típica
+### Sequência típica
 
 1. O **inquiridor** seleciona no sistema a &lt;&lt;proposta/prédio&gt;&gt; em causa, utilizando os mecanismos de seleção e pesquisa existentes no sistema e escolher a operação &lt;&lt;comprovativo&gt;&gt;;
 2. O **inquiridor** seleciona preenche dados de contacto caso não haja pelo menos um registado \(SMS, correio eletrónico\);
@@ -35,11 +35,11 @@ Sequência típica
    2. Um correio eletrónico com todo o conteúdo relevante.
 6. O **inquiridor** explica ao titular cadastral como utilizar o recibo emitido, nomeadamente no processo de consulta pública.
 
-Fluxograma
+### Fluxograma
 
 Figura 38 - Fluxograma Emitir Comprovativo
 
-Outras sequências
+### Outras sequências
 
 A1. O equipamento de impressão não funciona
 
