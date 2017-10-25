@@ -1,6 +1,6 @@
-#### Recepção de Reclamações {#recep-o-de-reclama-es}
+## Recepção de Reclamações
 
-Âmbito
+### Âmbito
 
 Durante a Consulta Pública e até 10 dias úteis após o termo do prazo da consulta pública, os titulares cadastrais e qualquer outro interessado podem apresentar à Entidade Executante \(EE\) reclamações relativas à caracterização provisória dos prédios. As reclamações podem ser relativas aos limites, aos direitos ou aos dois aspectos.
 
@@ -12,23 +12,21 @@ O pessoal da Casa do Cidadão no território nacional e no estrangeiro poderá v
 
 O sistema não permite de momento a emissão de um comprovativo de reclamação, mas caso o\(a\) titular o solicite, pode ser emitido fora do sistema \(ficha standard de entrega a preencher, imprimir e assinar pelo titular e pelo atendedor\).
 
-Finalidade
+### Finalidade
 
 Reclamação dos titulares cadastrais e qualquer outro interessado à Entidade Executante.
 
-Diagrama
+### Diagrama
 
 Figura 58 - Recepção de Reclamação
 
-Interveniente
+### Interveniente
 
-EE \(atendedor do Gabinete de Apoio\);
+* EE \(atendedor do Gabinete de Apoio\);
+* Titular Cadastral ou representante;
+* Pessoa singular ou coletiva interessada na reclamação.
 
-Titular Cadastral ou representante;
-
-Pessoa singular ou coletiva interessada na reclamação.
-
-Sequência Típica
+### Sequência Típica
 
 No Local da consulta pública:
 
