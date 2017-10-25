@@ -22,11 +22,9 @@ A declaração deve conter a menção do nome completo, do estado civil, da natu
 
 A escritura de habilitação deve ser instruída com os seguintes documentos:
 
-Certidão narrativa de óbito do autor da herança;
-
-Certidão de nascimento, justificativos da sucessão legítima, quando nesta se fundamente a qualidade de herdeiro de algum dos habilitandos;
-
-Certidão de teor do testamento ou da escritura de doação por morte, mesmo que a sucessão não se funde em algum desses atos.
+* Certidão narrativa de óbito do autor da herança;
+* Certidão de nascimento, justificativos da sucessão legítima, quando nesta se fundamente a qualidade de herdeiro de algum dos habilitandos;
+* Certidão de teor do testamento ou da escritura de doação por morte, mesmo que a sucessão não se funde em algum desses atos.
 
 A certidão de habilitação de herdeiros notarial \(obtida findo o período de publicitação \(editais\) do extrato da habilitação e não havendo contestação\) tem os mesmos efeitos da habilitação judicial - requerida nos tribunais - e é título bastante para que se possam fazer em comum, a favor de todos os herdeiros e do cônjuge meeiro, o registo dos imóveis nos serviços do registo predial, que pode ser requerido por qualquer dos herdeiros habilitados ou pelo cônjuge meeiro.
 
