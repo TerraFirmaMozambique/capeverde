@@ -1,6 +1,6 @@
 ## Ferramentas Legais {#ferramentas-legais}
 
-| Ferramentas |
+| Ferramentas Legais |
 | :--- |
 
 
