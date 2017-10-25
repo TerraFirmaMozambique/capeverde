@@ -1,4 +1,4 @@
-### Ferramenta 2 - Identificação de conflito {#ferramenta-2-identifica-o-de-conflito}
+## Ferramenta 2 - Identificação de conflito
 
 Tendo em conta as evidências recolhidas na fase de preparação da operação e na fase de aquisição dos dados cadastrais, devem ser identificados/assinalados pela equipa do terreno e pelo backoffice os conflitos emergentes do direito de propriedade e outros direitos reais secundários sobre bens imóveis, s Toda a gestão posterior dos conflitos – identificação definitiva e encaminhamento adequado para a sua resolução extrajudicial ou judicial - será realizada pelo BackOffice e pelo Gabinete de Apoio.
 

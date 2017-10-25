@@ -1,4 +1,4 @@
-### Ferramenta 3 - Apoio para Emissão de Parecer {#ferramenta-3-apoio-para-emiss-o-de-parecer}
+## Ferramenta 3 - Apoio para Emissão de Parecer
 
 A situação dos imóveis deve ser refletida no cadastro predial tal como indica a Tabela seguinte, apoiando a EE e a EAT na análise e preparação de pareceres. Esta tabela pretende ser meramente indicativa, apontando as situações _tout court_, sem atender à multiplicidade de evidências que podem se verificar. O registo de imóveis do Estado e das Autarquias locais, deve, não se verificando contradições outras relacionadas com o registo matricial / predial / posse, ser realizado em nome do Estado/Município.
 

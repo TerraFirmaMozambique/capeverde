@@ -1,6 +1,6 @@
-### Ferramenta 4 - Procedimentos para formalização e consolidação de direitos {#ferramenta-4-procedimentos-para-formaliza-o-e-consolida-o-de-direitos}
+## Ferramenta 4 - Procedimentos para formalização e consolidação de direitos
 
-#### Reconhecimento do direito sobre imóveis adquiridos por escrito particular ou por acordo verbal {#reconhecimento-do-direito-sobre-im-veis-adquiridos-por-escrito-particular-ou-por-acordo-verbal}
+### Reconhecimento do direito sobre imóveis adquiridos por escrito particular ou por acordo verbal
 
 Nos casos de aquisição informal do direito, o titular cadastral deve recorrer aos meios de provas legalmente admissíveis em direito.
 
@@ -14,7 +14,7 @@ Para o efeito, o presumível titular deve propor ao transmitente a formalizaçã
 
 Figura 69 - Formalização de direitos - Imóveis transaccionados por escrito particular/acordo verbal
 
-#### Habilitação Notarial de Herdeiros {#habilita-o-notarial-de-herdeiros}
+### Habilitação Notarial de Herdeiros
 
 A habilitação notarial de herdeiros é realizada no Cartório Notarial e consiste na declaração, feita em escritura pública por três pessoas que o notário considere dignas de crédito, de que os habilitandos são herdeiros do\(a\) falecido\(a\) e não há quem lhes prefira na sucessão ou quem concorra com eles. A declaração referida no número anterior pode ser feita, em alternativa, por quem desempenhar o cargo de cabeça-de-casal, devendo, nesse caso, ser-lhe feita a advertência prevista no artigo 97º.
 
@@ -34,7 +34,7 @@ A certidão de habilitação de herdeiros notarial \(obtida findo o período de 
 
 Figura 70 - Procedimento para habilitação de herdeiros
 
-#### Remição do foro {#remi-o-do-foro}
+### Remição do foro
 
 Havendo pedido do foreiro nesse sentido, a Câmara Municipal promove durante a Operação ou no término desta, a remição do foro a favor dos foreiros dos lotes de terrenos a cadastrar ou cadastrados que tenham sido concedidos em regime de aforamento e no qual tenha sido construído ou esteja em construção prédio urbano.
 
@@ -50,7 +50,7 @@ O registo predial obrigatório da remição de foro está isento de emolumentos 
 
 Figura 71 - Procedimentos para remição de foro \(aquisição de pleno direito\)
 
-#### Justificação Notarial {#justifica-o-notarial}
+### Justificação Notarial
 
 A justificação notarial é o principal instrumento utilizado pelos privados para a justificação do direito mas só se pode recorrer a ela quando haja inscrição matricial do direito a favor do justificante ou da pessoa de quem adquiriu o direito. A justificação notarial é realizada por escritura pública no Cartório Notarial, perante o Notário e são passadas depois de decorridos 30 dias sobre a data em que o extrato for publicitado se dentro desse prazo não for recebida comunicação da pendência da impugnação.
 
@@ -64,7 +64,7 @@ Só podem ser passadas certidões de escritura de justificação depois de decor
 
 Figura 72 - Procedimentos para formalização de direitos – Justificação Notarial
 
-#### Justificação Judicial {#justifica-o-judicial}
+### Justificação Judicial
 
 Sempre que não seja possível recorrer à justificação notarial, designadamente por omissão do prédio na matriz, a favor do justificante ou do transmitente, pode-se recorrer à justificação judicial intentando uma ação de justificação judicial junto dos tribunais judiciais através de petição dirigida ao juiz. Para intentar a ação de justificação judicial é obrigatória a constituição de advogado.
 

@@ -1,4 +1,4 @@
-### Ferramenta 1 – Recolha de dados e caracterização jurídica do prédio {#ferramenta-1-recolha-de-dados-e-caracteriza-o-jur-dica-do-pr-dio}
+## Ferramenta 1 – Recolha de dados e caracterização jurídica do prédio
 
 A caracterização da situação jurídica do prédio trata essencialmente de determinar ou clarificar, mediante prova documental \(certidões do registo predial e/ou inscrição matricial ou outros títulos jurídicos válidos de aquisição\) o titular ou os titulares do direito ou dos direitos sobre um determinado prédio fisicamente identificado. Contribuem directamente para esta tarefa:
 
@@ -7,7 +7,7 @@ A caracterização da situação jurídica do prédio trata essencialmente de de
 
 A análise é feita com base nos dados recolhidos pelo\(a\) inquiridor\(a\) durante a visita de campo: este\(a\) solicita ao declarante os documentos que este tem \(documentos de identificação pessoal - tais como o BI, passaporte, NIF\) e da casa \(os que o titular tiver\) e fotografá-los \(digitalizar\); também preencher com o declarante a Declaração de Titularidade \(questionário digital\). De referir que o\(a\) inquiridor\(a\) que trabalha em seções cadastrais onde existem assentamentos informais \(AUGI e não AUGI\) deve ter uma formação mais aprofundada sobre os dados a recolher nestas situações.
 
-Para todos os titulares os **contactos** \(completos e bem anotados\), o que permitirá ao backoffice e/ou gabinete de apoio voltar a entrar em contacto com o titular para \(i\) completar processos incompletos \(ou com inconsistências identificadas na harmonização\), \(ii\) apoiar o processo de formalização dos direitos que se revelarem informais.
+Para todos os titulares os contactos \(completos e bem anotados\), o que permitirá ao backoffice e/ou gabinete de apoio voltar a entrar em contacto com o titular para \(i\) completar processos incompletos \(ou com inconsistências identificadas na harmonização\), \(ii\) apoiar o processo de formalização dos direitos que se revelarem informais.
 
 O prédio tem sempre um titular do direito de propriedade ou cotitulares e, eventualmente, pode ainda estar onerado por algum dos outros direitos reais secundários contemplado nas Operações do Cadastro Predial, que são:
 
