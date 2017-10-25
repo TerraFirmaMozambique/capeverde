@@ -1,23 +1,23 @@
-### Retificação de Declaração {#retifica-o-de-declara-o}
+## Retificação de Declaração
 
-Âmbito
+### Âmbito
 
 A Declaração de Titularidade pode ser retificada por iniciativa dos titulares cadastrais, quando estes queiram rectificar alguma das informações declaradas, actualizando-se a respectiva declaração.
 
-Finalidade
+### Finalidade
 
-Retificar dados constantes da Declaração de Titularidade por iniciativa dos titulares cadastrais.
+* Retificar dados constantes da Declaração de Titularidade por iniciativa dos titulares cadastrais.
 
-Interveniente
+### Interveniente
 
 * Titular cadastral/Declarante;
 * EE \(Atendedor\).
 
-Condições de partida
+### Condições de partida
 
-A proposta está num estado que ainda aceita retificações de declarações.
+* A proposta está num estado que ainda aceita retificações de declarações.
 
-Sequência típica
+### Sequência típica
 
 1. O “atendedor \(EE\) ” procura no sistema a declaração a ser retificada pelas chaves de pesquisa;
 2. O atendedor escolhe a declaração em causa, e escolhe a opção “Nova Declaração”;
@@ -28,9 +28,7 @@ Sequência típica
 7. O atendedor entrega uma cópia assinada da declaração ao declarante;
 8. O sistema encaminha para tratamento.
 
-Pós-Condições
+### Pós-Condições
 
 A declaração é retificada no sistema.
-
-
 

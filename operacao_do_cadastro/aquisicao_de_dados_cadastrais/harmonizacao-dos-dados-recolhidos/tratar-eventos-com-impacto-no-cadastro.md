@@ -1,6 +1,6 @@
-#### Tratar Eventos com Impacto no Cadastro {#tratar-eventos-com-impacto-no-cadastro}
+## Tratar Eventos com Impacto no Cadastro
 
-Âmbito
+### Âmbito
 
 As &lt;&lt;propostas/prédios&gt;&gt; estão a ser tratadas com harmonização dos dados que vieram da visita de campo, das declarações de titularidade, das evidências e documentos de prova apresentados, da perspetiva de haver ou não restrições de natureza ambiental ou outra sobre o prédio, se há ou não indícios de conflitos.
 
@@ -10,33 +10,32 @@ Assim, deve-se por um lado procurar nos sistemas envolvidos no processo de clari
 
 Este procedimento que deve ser feito periodicamente e sempre que necessário visa sinalizar os prédios com transações em curso no período do cadastro.
 
-Finalidade
+### Finalidade
 
-Associar ao prédio, evidências de pedidos em curso na Câmara Municipal, Cartório Notarial ou Registo Predial.
+* Associar ao prédio, evidências de pedidos em curso na Câmara Municipal, Cartório Notarial ou Registo Predial.
 
-Interveniente
+### Interveniente
 
-EE \(Qualificador\).
+* EE \(Qualificador\).
 
-Diagrama
+### Diagrama
 
 Figura 47 - Tratar Eventos com Impacto no cadastro
 
-Condições de partida
+### Condições de partida
 
-Existe acesso do BackOffice aos sistemas matriciais, registo predial e escritura pública.
+* Existe acesso do BackOffice aos sistemas matriciais, registo predial e escritura pública.
 
-Sequência típica
+### Sequência típica
 
 1. Consultar os eventos que ocorreram; \(Com recurso à base de dados\);
+2. Harmonizar as alterações para os processos que ainda não tenham sido enviados para consulta pública;
+3. Adequar os pareceres em conformidade;
+4. Atualizar os dados dos eventos, sinalizando o seu tratamento; funcionalidade não disponível, utilizar _log_ file de controlo de eventos para o efeito.
 
-Harmonizar as alterações para os processos que ainda não tenham sido enviados para consulta pública;
+### Pós-Condições
 
-Adequar os pareceres em conformidade;
+* Os prédios com alterações introduzidas em período de operação de cadastro são sinalizadas no sistema.
 
-Atualizar os dados dos eventos, sinalizando o seu tratamento; funcionalidade não disponível, utilizar _log_ file de controlo de eventos para o efeito.
 
-Pós-Condições
-
-Os prédios com alterações introduzidas em período de operação de cadastro são sinalizadas no sistema.
 
