@@ -1,4 +1,4 @@
-### Ferramenta AMB 2: Rastreio ambiental na visita de terreno {#ferramenta-amb-2-rastreio-ambiental-na-visita-de-terreno}
+## Ferramenta AMB 2: Rastreio ambiental na visita de terreno
 
 Este **questionário / lista de verificação** deve ser utilizado no momento da visita da visita pelo \(i\) supervisor\(a\), \(ii\) técnico\(a\) especialista do ambiente. Utilizada no momento da visita, ou posteriormente, segundo a perceção do especialista de ambiente e deverá ser verificada parcela a parcela. Se o prédio encontra-se numa das áreas abaixo, utilizar o questionário conforme os casos.
 
