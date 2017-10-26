@@ -1,6 +1,6 @@
 ## Enquadramento Jurídico e Institucional {#enquadramento-jur-dico-e-institucional}
 
-As disposições legais referidas no Manual servem de suporte aos agentes e operadores cadastrais no sentido de 
+As disposições legais referidas no Manual servem de suporte aos agentes e operadores cadastrais no sentido de
 
 1. facilmente poderem interpretar e aplicar o quadro legal em vigor, no que concerne aos procedimentos e o ambiente institucional em termos de constituição, modificação, extinção e registo sistemático dos direitos de propriedade e outros direitos reais secundários sobre imóveis, incluindo o regime jurídico patrimonial do casamento/união de facto aplicável, bem como 
 2. esclarecer os declarantes, perante cada situação concreta apresentada, os procedimentos indispensáveis a seguir com vista à formalização dos direitos que se mostrarem irregularmente constituídos, designadamente nos casos de transmissão inter-vivos ou mortis causa sem a celebração da escritura pública legalmente exigível.
@@ -19,6 +19,11 @@ Pretende-se que, perante os elementos de identificação física do prédio e a 
 * Modelo de Declaração de Titularidade dos Prédios;
 * Modelos de Requerimento e Declarações de inscrição e alteração dos dados dos prédios no sistema de informação predial;
 * Lei nº 25/VII/2008, de 3 de Março, que aprova o regime especial para a regularização da situação dos particulares que ocupam terrenos do domínio privado do Estado.
+
+
+
+* Regime Especial, 2016
+* Decreto Lei 39/2017
 
 
 
