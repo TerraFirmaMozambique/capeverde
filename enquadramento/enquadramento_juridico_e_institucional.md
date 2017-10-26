@@ -20,9 +20,7 @@ Pretende-se que, perante os elementos de identificação física do prédio e a 
 * Modelos de Requerimento e Declarações de inscrição e alteração dos dados dos prédios no sistema de informação predial;
 * Lei nº 25/VII/2008, de 3 de Março, que aprova o regime especial para a regularização da situação dos particulares que ocupam terrenos do domínio privado do Estado.
 
-
-
-* Regime Especial, 2016
+* Decreto-lei   44/2016 de 6 de Setembro
 * Decreto Lei 39/2017
 
 

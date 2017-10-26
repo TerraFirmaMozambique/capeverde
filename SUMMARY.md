@@ -42,7 +42,7 @@
     * [Caracterização das seções cadastrais](operacao_do_cadastro/aquisicao_de_dados_cadastrais/caracterizacao-das-secoes-cadastrais.md)
     * [Identificar as Necessidades e Planificar ](operacao_do_cadastro/aquisicao_de_dados_cadastrais/identificar-as-necessidades-e-planificar.md)
     * [Trabalho de Campo](operacao_do_cadastro/aquisicao_de_dados_cadastrais/trabalho-de-campo.md)
-      * [Sensibilização e comunicação](operacao_do_cadastro/aquisicao_de_dados_cadastrais/trabalho-de-campo/sensibilizacao-e-comunicacao.md)
+      * [Sensibilização e Comunicação](operacao_do_cadastro/aquisicao_de_dados_cadastrais/trabalho-de-campo/sensibilizacao-e-comunicacao.md)
       * [Rastreio Social e de Género na Visita de Terreno](operacao_do_cadastro/aquisicao_de_dados_cadastrais/trabalho-de-campo/rastreio-social-e-de-genero-na-visita-de-terreno.md)
       * [Recolher Dados da Parcela: Delimitação, Demarcação e Restrições](operacao_do_cadastro/aquisicao_de_dados_cadastrais/trabalho-de-campo/recolher-dados-da-parcela-delimitacao-demarcacao-e-restricoes.md)
       * [Verificar e Recolher Dados dos Titulares](operacao_do_cadastro/aquisicao_de_dados_cadastrais/trabalho-de-campo/verificar-e-recolher-dados-dos-titulares.md)

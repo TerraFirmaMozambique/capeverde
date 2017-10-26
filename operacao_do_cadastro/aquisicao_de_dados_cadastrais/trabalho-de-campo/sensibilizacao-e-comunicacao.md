@@ -1,4 +1,4 @@
-## Sensibilização e comunicação
+## Sensibilização e Comunicação
 
 ### Âmbito
 
