@@ -1,4 +1,4 @@
-# MANUAL DE CAMPO![](/assets/httpsscontent-mad1-1xxfbcdnne.png) {#manual-de-opera-es}
+# MANUAL DE CAMPO![](/assets/httpsscontent-mad1-1xxfbcdnne.png) 
 
 ![](/assets/logotipo.png)
 
