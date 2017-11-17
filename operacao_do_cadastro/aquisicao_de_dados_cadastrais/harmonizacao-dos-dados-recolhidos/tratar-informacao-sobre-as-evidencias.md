@@ -16,7 +16,7 @@ Atualizar os dados da proposta com uma análise mais cuidada das evidências exi
 
 * EE \(Qualificador\).
 
-### Diagrama
+### Diagrama![](/assets/45.jpg)
 
 Figura 45 - Tratar Informação sobre Evidências
 
@@ -39,7 +39,7 @@ Figura 45 - Tratar Informação sobre Evidências
 
 ### Fluxograma
 
-![Tratar Informação sobre Evidências - New Page.jpeg](../assets/tratar_informacao_sobre_evidencias.jpeg)
+![Tratar Informação sobre Evidências - New Page.jpeg](../assets/tratar_informacao_sobre_evidencias.jpeg)![](/assets/46.jpg)
 
 Figura 46 - Fluxograma Tratar Informação sobre Evidências
 
