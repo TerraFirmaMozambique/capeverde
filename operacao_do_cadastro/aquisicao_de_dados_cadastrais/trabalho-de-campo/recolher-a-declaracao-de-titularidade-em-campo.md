@@ -22,7 +22,7 @@ No caso de ausência de titular, ou se este não apresentar a declaração de ti
 
 ### Diagrama
 
-![Macintosh HD:Users:PNM:Downloads:MCA.LAND - Declaração dos Titulares \(Presencial em campo\) - Use Case.png](../assets/macintosh_hduserspnmdownloadsmc.png)
+![Macintosh HD:Users:PNM:Downloads:MCA.LAND - Declaração dos Titulares \(Presencial em campo\) - Use Case.png](../assets/macintosh_hduserspnmdownloadsmc.png)![](/assets/34.png)
 
 Figura 34 - Recolha da declaração em campo
 
