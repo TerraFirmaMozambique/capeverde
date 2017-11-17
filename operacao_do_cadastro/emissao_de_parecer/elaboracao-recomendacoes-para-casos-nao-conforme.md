@@ -22,9 +22,7 @@ Caso não estejam disponíveis no sistema as funcionalidades para encaminhamento
 
 * Incorporar aspetos particulares de conflitos, social ou género, restrição ambiental ou outra no parecer.
 
-### Diagrama
-
-![Macintosh HD:Users:PNM:Downloads:MCA.LAND Qualificar Processo Não Conforme - New Page.png](../assets/macintosh_hduserspnmdownloadsmc.png)![](/assets/52.png)
+### Diagrama![](/assets/52.png)
 
 Figura 52 - Emissão de Parecer para Processos Não Conforme
 
