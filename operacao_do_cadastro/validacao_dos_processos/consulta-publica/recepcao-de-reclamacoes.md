@@ -16,7 +16,7 @@ O sistema não permite de momento a emissão de um comprovativo de reclamação,
 
 Reclamação dos titulares cadastrais e qualquer outro interessado à Entidade Executante.
 
-### Diagrama
+### Diagrama![](/assets/58.jpg)
 
 Figura 58 - Recepção de Reclamação
 
