@@ -53,9 +53,7 @@ A1 - Direitos relacionados a empreendimentos/complexos turísticos
 1. Tratando-se de um empreendimento turístico, é mais simples e eficaz levantar os dados dos direitos em Back Office;
 2. Deve-se recolher uma listagem em papel, ou em formato digital, de todos os prédios e fracções do empreendimento, que será posteriormente utilizada para comparação com as declarações e propostas geradas pelo sistema, via acesso direto à base de dados.
 
-### Fluxograma
-
-![INSERIDO - Verificar e Recolher Dados Sobre Direitos, Responsabilidade e Restrições - New Page.jpeg](../assets/inserido_-_verificar_e_recolher_dad.jpeg)
+### Fluxograma![](/assets/INSERIDO - Verificar e Recolher Dados Sobre Direitos, Responsabilidade e Restrições - New Page.png)
 
 Figura 33 - Fluxograma Tipificar Direitos
 
