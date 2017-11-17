@@ -18,9 +18,7 @@ Quando a caracterização provisória é validada pela EAT, os prédios ficam au
 * Ferramenta de verificação
 * Lista de verificações da EAT: caracterização definitiva.
 
-### Diagrama
-
-
+### Diagrama![](/assets/60.jpg)
 
 Figura 60 - Caracterização Definitiva
 
@@ -40,7 +38,7 @@ Deve-se priorizar os com parecer para “Cadastro” em detrimento dos que estã
 8. Passar para o próximo processo até não haver mais processos pendentes para CADASTRO;
 9. Prosseguir de seguida para os “Prédios propostos para Cadastro Diferido” e repetir o procedimento.
 
-### Fluxograma
+### Fluxograma![](/assets/61.jpg)
 
 Figura 61 - Fluxograma Caracterização Definitiva
 
