@@ -10,9 +10,7 @@ O tratamento da \(s\) declaração \(ões\) consiste na verificação dos dados 
 
 * EE \(Técnico legal\).
 
-### Diagrama
-
-
+### Diagrama![](/assets/40.jpg)
 
 Figura 40 - Tratar Proposta em função da informação da declaração
 
