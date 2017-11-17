@@ -39,7 +39,7 @@ Figura 45 - Tratar Informação sobre Evidências
 
 ### Fluxograma
 
-![Tratar Informação sobre Evidências - New Page.jpeg](../assets/tratar_informacao_sobre_evidencias.jpeg)![](/assets/46.jpg)
+![](/assets/46.jpg)
 
 Figura 46 - Fluxograma Tratar Informação sobre Evidências
 
