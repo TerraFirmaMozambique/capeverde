@@ -21,6 +21,8 @@ Se durante a sua qualificação surgir alguma evidência de conflito, situação
 
 ### Diagrama
 
+![](/assets/51.jpg)
+
 Figura 51 - Emissão de Parecer para Processos Conforme
 
 ### Interveniente
