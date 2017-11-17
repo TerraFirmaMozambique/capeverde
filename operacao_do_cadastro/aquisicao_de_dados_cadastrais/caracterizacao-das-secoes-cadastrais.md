@@ -26,9 +26,7 @@ NOTA: caso os _layers_ não existam no sistema \(LMITS\), esta análise é feita
 
 * EE \(Analista SIG, técnico ambiental, jurista\).
 
-### Diagrama
-
-![Macintosh HD:Users:PNM:Downloads:MCA.LAND Identificar Restrição Ambiental - New Page.png](../assets/macintosh_hduserspnmdownloadsmc.png)![](/assets/24.png)
+### Diagrama![](/assets/24.png)
 
 Figura 24 - Caracterizar as restrições de cada bloco cadastral
 
@@ -41,7 +39,7 @@ Para cada bloco cadastral o analista deve:
 3. Anotar os polígonos afectados por cada restrição relevante \(quando existem polígonos no sistema\); ex. pela área de servidão aeroportuária \(zonas de maior risco\), área de proteção, área de risco/ segurança pública, etc.;
 4. Caso os polígonos não existam ou venham a ser delimitado posteriormente, a informação vai aparecer em todos os prédios abrangidos pelo _layer_, de acordo com os \_layer\_s selecionados.
 
-### Fluxogramas
+### Fluxogramas![](/assets/25.jpg)
 
 Figura 25 - Fluxograma Identificação de restrições ambientais
 
