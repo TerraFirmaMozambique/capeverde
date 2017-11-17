@@ -1,3 +1,6 @@
+
+---
+
 ## Verificar e Recolher Dados dos Titulares
 
 ### Âmbito
@@ -76,6 +79,4 @@ A3 - Declaração\(ões\) pertencentes a empreendimentos/complexos turísticos
 
 * Os dados dos titulares que prestaram declarações anteriores foram verificados e validados no sistema;
 * Dados obrigatórios para a identificação dos titulares foram obtidos.
-
-
 
