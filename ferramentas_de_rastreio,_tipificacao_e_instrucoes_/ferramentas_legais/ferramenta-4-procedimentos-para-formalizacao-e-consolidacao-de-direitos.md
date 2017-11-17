@@ -10,7 +10,7 @@ Caso o bem imóvel tenha sido adquirido a um privado, a transacção deve ser fo
 
 Para o efeito, o presumível titular deve propor ao transmitente a formalização do negócio. No caso de impossibilidade ou recusa deste, deve recorrer ao Cartório Notarial para proceder à Justificação Notarial ou recorrer aos Tribunais Judiciais para proceder à Justificação Judicial.
 
-![img\_1 Monica - Support Process.jpeg](../assets/img1_monica_-_support_process.jpeg)![](/assets/69.jpg)
+![](/assets/69.jpg)
 
 Figura 69 - Formalização de direitos - Imóveis transaccionados por escrito particular/acordo verbal
 
@@ -28,7 +28,7 @@ A escritura de habilitação deve ser instruída com os seguintes documentos:
 
 A certidão de habilitação de herdeiros notarial \(obtida findo o período de publicitação \(editais\) do extrato da habilitação e não havendo contestação\) tem os mesmos efeitos da habilitação judicial - requerida nos tribunais - e é título bastante para que se possam fazer em comum, a favor de todos os herdeiros e do cônjuge meeiro, o registo dos imóveis nos serviços do registo predial, que pode ser requerido por qualquer dos herdeiros habilitados ou pelo cônjuge meeiro.
 
-![img\_2 Monica - Support Process \(1\).jpeg](../assets/img2_monica_-_support_process_1.jpeg)![](/assets/70.jpg)
+![](/assets/70.jpg)
 
 Figura 70 - Procedimento para habilitação de herdeiros
 
@@ -44,7 +44,7 @@ Com o pagamento integral dos foros, atribui-se o direito de propriedade ao entã
 
 O registo predial obrigatório da remição de foro está isento de emolumentos notariais e de registo.
 
-![img\_3 Monica - Support Process \(1\).jpeg](../assets/img3_monica_-_support_process_1.jpeg)![](/assets/71.jpg)
+![](/assets/71.jpg)
 
 Figura 71 - Procedimentos para remição de foro \(aquisição de pleno direito\)
 
@@ -58,7 +58,7 @@ O facto justificado na escritura pode ser impugnado em juízo por interessados d
 
 Só podem ser passadas certidões de escritura de justificação depois de decorridos 30 dias sobre a data em que o extrato for publicado, se dentro desse prazo não for recebida comunicação da pendência da impugnação.
 
-![img\_4 Monica - Support Process.jpeg](../assets/img4_monica_-_support_process.jpeg)![](/assets/72.jpg)
+![](/assets/72.jpg)
 
 Figura 72 - Procedimentos para formalização de direitos – Justificação Notarial
 
@@ -68,7 +68,7 @@ Sempre que não seja possível recorrer à justificação notarial, designadamen
 
 O juiz é livre para apreciar as provas. Pode ouvir testemunhas ou mandar realizar diligências probatórias que entender oportunas.
 
-![img\_5 Monica - Support Process.jpeg](../assets/img5_monica_-_support_process.jpeg)![](/assets/73.jpg)
+![](/assets/73.jpg)
 
 Figura 73 - Procedimentos para formalização de direitos – Justificação judicial
 
