@@ -12,6 +12,8 @@ O tratamento da \(s\) declaração \(ões\) consiste na verificação dos dados 
 
 ### Diagrama
 
+
+
 Figura 40 - Tratar Proposta em função da informação da declaração
 
 ### Condições de partida

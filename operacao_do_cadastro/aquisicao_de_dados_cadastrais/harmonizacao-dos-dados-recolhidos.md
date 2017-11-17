@@ -11,7 +11,7 @@ Este secção do Manual visa mostrar como harmonizar de forma global e de acordo
 * Informação sobre as evidências;
 * Informação sobre eventuais restrições sobre o território;
 * Informação sobre potenciais conflitos;
-* Informação sobre eventos que possam ter impacto em encaminhar a proposta para o cadastro deferido.
+* Informação sobre eventos que possam ter impacto em encaminhar a proposta para o cadastro deferido.![](/assets/39.jpg)
 
 Figura 39 - Harmonização da Proposta
 
