@@ -20,6 +20,8 @@ Quando a caracterização provisória é validada pela EAT, os prédios ficam au
 
 ### Diagrama
 
+
+
 Figura 60 - Caracterização Definitiva
 
 ### Sequência típica
