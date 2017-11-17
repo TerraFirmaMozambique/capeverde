@@ -8,9 +8,7 @@ O primeiro passo a dar na preparação da operação é adequar o Sistema Inform
 
 Mediante o âmbito territorial definido, carregar todos os mapas e dados de base.
 
-### Diagrama
-
-![](/assets/def_ambito_7.png)![Macintosh HD:Users:PNM:Downloads:MCA.LAND Definição Âmbito Territorial v4.0 - New Page.png](../assets/macintosh_hduserspnmdownloadsmc.png)
+### Diagrama![](/assets/def_ambito_7.png)
 
 Figura 7 - Definição do âmbito territorial do Cadastro
 
@@ -73,6 +71,4 @@ As divisões administrativas estão carregadas no sistema.
 ### Fluxograma
 
 ![](/assets/flux_def_cad_10.jpg)Figura 10 - Fluxograma Definição das Secções Cadastrais
-
-
 
