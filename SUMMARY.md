@@ -3,7 +3,7 @@
 * [MANUAL DE CAMPO](README.md)
 * [Ficha Técnica    ](ficha_tecnica.md)
 * [Introdução](introducao/README.md)
-  * [Objetivos](introducao/objetivos.md)
+  * [Objectivos](introducao/objetivos.md)
   * [Audiência do Manual](introducao/audiencia_do_manual.md)
   * [Como utilizar o manual](introducao/como_utilizar_o_manual.md)
   * [Pré-requisitos para a execução de uma operação de cadastro](introducao/pre-requisitos_para_a_execucao_de_uma_operacao_de_.md)
