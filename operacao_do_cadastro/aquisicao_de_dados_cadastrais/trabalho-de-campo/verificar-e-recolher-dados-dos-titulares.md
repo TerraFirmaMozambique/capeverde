@@ -1,6 +1,3 @@
-
----
-
 ## Verificar e Recolher Dados dos Titulares
 
 ### Âmbito
